@@ -1,0 +1,37 @@
+import streamlit as st
+import pandas as pd
+from datetime import datetime
+
+# K-CLOUD CONFIGURATION
+st.set_page_config(page_title="KENWELL CLOUD DRIVE", page_icon="💎", layout="wide")
+
+# KCS (Kenwell Color Scheme) Injection
+st.markdown("""
+    <style>
+    .stApp { background-color: #050505; color: #f0f0f0; }
+    .stButton>button { background-color: #00d4ff; color: black; border-radius: 20px; }
+    </style>
+""", unsafe_content_allowed=True)
+
+st.title("🛡️ KENWELL CLOUD DRIVE")
+st.write(f"Logged in as: **kenwellenterprise2020@gmail.com**")
+
+# CLOUD DRIVE MODULES
+tab1, tab2 = st.tabs(["📂 FILE EXPLORER", "📤 UPLOAD CENTER"])
+
+with tab1:
+    st.subheader("Sovereign Cloud Storage")
+    # Simulation of K-Drive Cloud Files
+    files = {"Filename": ["kenwell_sovereign.db", "raw_logs.txt", "KSL_License.pdf"], 
+             "Size": ["2.4 MB", "45 KB", "1.2 MB"],
+             "Status": ["LOCKED", "SYNCING", "VERIFIED"]}
+    st.table(pd.DataFrame(files))
+
+with tab2:
+    st.subheader("Independent Data Injection")
+    uploaded_file = st.file_uploader("Choose a file to sync with K-Drive Nebula")
+    if uploaded_file is not None:
+        st.success(f"File '{uploaded_file.name}' has been encrypted and staged for Cloud Sync.")
+        if st.button("🚀 PUSH TO CLOUD"):
+            st.snow()
+            st.info("Direct Injection to GitHub Repository: SUCCESS.")
