@@ -1,0 +1,687 @@
+Handle,SKU,Name,Category,Description,Sold by weight,Option 1 name,Option 1 value,Option 2 name,Option 2 value,Option 3 name,Option 3 value,Cost,Barcode,SKU of included item,Quantity of included item,Track stock,Use production,Supplier,Purchase cost,Available for sale [Kenwell],Price [Kenwell],In stock [Kenwell],Low stock [Kenwell],Optimal stock [Kenwell],"Modifier - ""Admin""","Tax - ""happy discount"" (9%)","Tax - ""less profit"" (0%)"
+hkc-128gb-shadow-wing-2.5-sata,10561,128GB M.2 NVME SSD SOMNAMBULIST,Ssd & storage,,N,Description,DISCOUNT,,,,,0.00,,,,Y,,iidc,600.39,Y,1290.00,7.000,,,N,Y,Y
+hkc-128gb-shadow-wing-2.5-sata,10720,,,,,,WS,,,,,0.00,,,,,,,600.00,Y,variable,0.000,,,N,,
+128gb-ssd-hiksemi-wave,10162,128GB SSD HIKSEMI WAVE,Ssd & storage,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,720.00,Y,1390.00,10.000,,,Y,N,Y
+128gb-ssd-hiksemi-wave,10169,,,,,,WS,,,,,0.00,,,,,,,720.00,Y,variable,0.000,,,,,
+128gb-ssd-hkc-shadowings,10011,128GB SSD HKC SHADOWINGS,Ssd & storage,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,iidc,0.00,Y,1190.00,0.000,,,N,N,Y
+128gb-ssd-hkc-shadowings,10015,,,,,,WS,,,,,0.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+ramsta-ssd-128gb,10016,128GB SSD RAMSTA,Ssd & storage,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,iidc,0.00,Y,1190.00,0.000,,,N,N,Y
+ramsta-ssd-128gb,10101,,,,,,WS,,,,,0.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+16-ports-tp-link-gigabit-switch-hub-tl-sg1016d,10017,16 PORTS TP-LINK GIGABIT SWITCH HUB TL-SG1016D,Network Accessories,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,0.00,Y,variable,0.000,,,N,N,Y
+16-ports-tp-link-gigabit-switch-hub-tl-sg1016d,10161,,,,,,WS,,,,,0.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+16gb-(2x8gb)-fkwot-ddr4-3200mhz,10528,16GB (2X8GB) FKWOT DDR4 3200MHZ,Ram,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,1300.00,Y,3800.00,2.000,1.000,,N,N,Y
+16gb-(2x8gb)-fkwot-ddr4-3200mhz,10578,,,,,,WS,,,,,0.00,,,,,,,1300.00,Y,variable,0.000,,,N,,
+16gb-(2x8gb)-ocpc-xtreme-rgb-ddr4-3200mhz,10493,16GB (2X8GB) OCPC XTREME RGB DDR4 3200MHZ,Big Letter,,N,DESCRIPTION,DISCOUNT,,,,,1750.00,,,,Y,,,0.00,Y,4500.00,0.000,,,Y,N,Y
+16gb-(2x8gb)-ocpc-xtreme-rgb-ddr4-3200mhz,10527,,,,,,WS,,,,,0.00,,,,,,,0.00,Y,variable,0.000,,,,,
+16gb-3200mhz-sodimm-ramsta,10898,16GB 3200MHZ SODIMM RAMSTA,Ram,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,2000.00,Y,3900.00,2.000,,,N,N,Y
+16gb-3200mhz-sodimm-ramsta,10899,,,,,,WS,,,,,0.00,,,,,,,2000.00,Y,variable,0.000,,,N,,
+16gb-kingston-hyper-fury-1x16,10071,16GB LAPTOP RAM KINGSTON,Ram,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,manila,1600.00,Y,4900.00,1.000,,,N,Y,Y
+16gb-kingston-hyper-fury-1x16,10893,,,,,,WS,,,,,0.00,,,,,,,1600.00,Y,variable,0.000,,,N,,
+sd-card-16gb-class-10-original,10777,16GB SD CARD SANDISK,Accessories,,N,description,DISCOUNT,,,,,0.00,,,,Y,,,216.00,Y,279.00,13.000,5.000,,N,N,Y
+sd-card-16gb-class-10-original,10778,,,,,,WS,,,,,0.00,,,,,,,216.00,Y,variable,0.000,,,N,,
+1tb-adata-ssd-storage,10249,1TB ADATA SSD STORAGE,Ssd & storage,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,3250.00,Y,7700.00,1.000,,,N,N,Y
+1tb-adata-ssd-storage,10250,,,,,,WS,,,,,0.00,,,,,,,3250.00,Y,variable,0.000,,,N,,
+1tb-biwin-ssd,10223,1TB BIWIN SSD,Ssd & storage,,N,,,,,,,0.00,,,,Y,,,4500.00,Y,7500.00,0.000,,,N,N,Y
+1tb-hdd-storage,10181,1TB HDD STORAGE,Ssd & storage,,N,,,,,,,0.00,,,,Y,,,,Y,1400.00,0.000,,,N,N,Y
+1-tb-hard-disk-hdd-seagate-barracuda,10723,1TB LAPTOP HDD STORAGE,Ssd & storage,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,766.67,Y,1400.00,5.000,1.000,,N,Y,Y
+1-tb-hard-disk-hdd-seagate-barracuda,10980,,,,,,WS,,,,,0.00,,,,,,,766.67,Y,variable,0.000,,,N,,
+1tb-skyhawk-surveillance-hdd-used-3d-warranty,10273,1TB M.2 2280 R600 SSD RAMSTA,Big Letter,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,kenwell,1200.00,Y,3800.00,1.000,2.000,,N,Y,Y
+1tb-skyhawk-surveillance-hdd-used-3d-warranty,10894,,,,,,WS,,,,,0.00,,,,,,,1200.00,Y,variable,0.000,,,N,,
+1tb-m.2-nvme-intel-ssd,10226,1TB M.2 NVME INTEL SSD,Ssd & storage,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,2500.00,Y,5600.00,1.000,,,N,N,Y
+1tb-m.2-nvme-intel-ssd,10228,,,,,,WS,,,,,0.00,,,,,,,2500.00,Y,variable,0.000,,,N,,
+hkc-1tb-shadow-wing-2.5-ssd,10721,1TB SSD PATRIOT,Ssd & storage,,N,Description,DISCOUNT,,,,,0.00,,,,Y,,iidc,2900.00,Y,7700.00,3.000,,,N,Y,Y
+hkc-1tb-shadow-wing-2.5-ssd,10955,,,,,,WS,,,,,0.00,,,,,,,2900.00,Y,variable,0.000,,,N,,
+1tb-ramsta-ssd,10039,1TB SSD RAMSTA,Ssd & storage,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,iidc,0.00,Y,variable,0.000,,,N,Y,Y
+1tb-ramsta-ssd,10041,,,,,,WS,,,,,0.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+nvision-eg27s1-pro-27-inches-180hz-gaming-monitor,10311,200HZ 27 INCHES N-VISION EG27F1 PRO GAMING MONITOR,Monitors & TV,,N,,,,,,,6790.00,,,,Y,,iidc,0.00,Y,7800.00,0.000,1.000,,N,Y,Y
+24-ports-tp-link-gigabit-switch-hub-tl-sg1024d,10903,24 PORTS TP-LINK GIGABIT SWITCH HUB TL-SG1024D,Network Accessories,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,3000.00,Y,4900.00,1.000,,,N,N,Y
+24-ports-tp-link-gigabit-switch-hub-tl-sg1024d,10986,,,,,,WS,,,,,0.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+hkc-shadowing-256gb-ssd,10030,256 HKC SHADOWING SSD,Ssd & storage,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,0.00,Y,1650.00,0.000,,,N,N,Y
+hkc-shadowing-256gb-ssd,10031,,,,,,WS,,,,,0.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+m.2-ssd-256gb-ramsta,10209,256 M.2 SSD RAMSTA,Ssd & storage,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,iidc,1003.48,Y,1900.00,2.000,1.000,,N,Y,Y
+m.2-ssd-256gb-ramsta,10428,,,,,,WS,,,,,0.00,,,,,,,1003.48,Y,variable,0.000,,,N,,
+256gb-apacer-panther-ssd,10269,256GB APACER PANTHER SSD,Ssd & storage,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,2750.00,Y,3600.00,10.000,,,N,N,Y
+256gb-apacer-panther-ssd,10270,,,,,,WS,,,,,0.00,,,,,,,2750.00,Y,variable,0.000,,,N,,
+256gb-hkc-shadow-wing-2.5-sata,10255,256GB M.2 2280 SSD HKC,Ssd & storage,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,iidc,980.00,Y,2399.00,1.000,2.000,,N,Y,Y
+256gb-hkc-shadow-wing-2.5-sata,10896,,,,,,WS,,,,,0.00,,,,,,,980.00,Y,variable,0.000,,,N,,
+256gb-nvme-m.2-r900-3.0,10891,256GB M.2 NVME SSD ORICO,Ssd & storage,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,iidc,800.00,Y,2299.00,0.000,,,N,Y,Y
+256gb-nvme-m.2-r900-3.0,10892,,,,,,WS,,,,,0.00,,,,,,,800.00,Y,variable,0.000,,,N,,
+256gb-ssd-2.5-ramsta,10594,256GB M.2 NVME SSD R900 RAMSTA,Ssd & storage,,N,discription,DISCOUNT,,,,,0.00,,,,Y,,iidc,913.03,Y,1950.00,1.000,2.000,,N,Y,Y
+256gb-ssd-2.5-ramsta,10595,,,,,,WS,,,,,0.00,,,,,,,959.31,Y,variable,0.000,,,N,,
+256gb-m.2-ssd-silicon-poower,10889,256GB M.2 SSD SILICON POWER,Ssd & storage,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,1500.00,Y,2399.00,1.000,,,N,N,Y
+256gb-m.2-ssd-silicon-poower,10890,,,,,,WS,,,,,1500.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+250gb-m.2-ssd-silicon-power,10265,256GB M.2 SSD SILICON POWER,Ssd & storage,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,1300.00,Y,2900.00,1.000,,,N,N,Y
+250gb-m.2-ssd-silicon-power,10902,,,,,,WS,,,,,0.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+256gb-ssd-ramsta,10023,256GB SSD RAMSTA,Ssd & storage,,N,DESCRIPTION,DISCOUNT,,,,,1300.00,,,,Y,,iidc,0.00,Y,1650.00,0.000,,,N,N,Y
+256gb-ssd-ramsta,10029,,,,,,WS,,,,,0.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+256gb-ssd-team-elite,10478,256GB SSD TEAM ELITE,Ssd & storage,,N,,,,,,,0.00,,,,Y,,,,Y,variable,0.000,,,N,N,Y
+asus-tuf-monitor-180hz,10297,"27 INCHES VG27VQ3B ASUS 180HZ CURVE TUF GAMING MONITOR, ASUS",Monitors & TV,,N,,,,,,,8500.00,,,,Y,,Davao,0.00,Y,10899.00,0.000,,,N,N,Y
+ramsta-rgb-16gb-3200-mhz-1-stick,11752,32GB (16GBX2) RAMSTA SNAIL RGB 3200MHZ,Ram,,N,description,16GB,,,,,0.00,,,,Y,,iidc,2500.00,Y,3800.00,4.000,,,N,Y,Y
+ramsta-rgb-16gb-3200-mhz-1-stick,11751,,,,,,32GB,,,,,0.00,,,,,,,5000.00,Y,9500.00,2.000,,,N,,
+4gb-ram-ddr3-assorted,10234,4GB RAM DDR3 ASSORTED,Ram,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,250.00,Y,750.00,1.000,,,N,N,Y
+4gb-ram-ddr3-assorted,10235,,,,,,WS,,,,,0.00,,,,,,,250.00,Y,variable,0.000,,,N,,
+skihotar-ram-4gb-ddr4-2666mhz,10028,4GB SKIHOTAR RAM DDR4 2666MHZ,Ram,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,iidc,950.00,Y,1199.00,1.000,,,N,N,Y
+skihotar-ram-4gb-ddr4-2666mhz,10985,,,,,,WS,,,,,0.00,,,,,,,950.00,Y,variable,0.000,,,N,,
+4tb-hdd-storage,10970,4TB HDD STORAGE,Ssd & storage,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,0.00,Y,variable,1.000,,,N,N,Y
+4tb-hdd-storage,10973,,,,,,WS,,,,,0.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+500gb-hdd-good-as-new,10024,500GB WD HDD STORAGE NEW,Big Letter,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,kenwell,300.00,Y,750.00,6.000,2.000,,N,Y,Y
+500gb-hdd-good-as-new,10148,,,,,,WS,,,,,0.00,,,,,,,300.00,Y,variable,0.000,,,N,,
+ramsta-r980-nvme-pcie-4.0-m.2-512gb-700mbps-spees,10453,512GB M.2 2280 SSD SATA RAMSTA,Ssd & storage,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,iidc,2150.00,Y,4500.00,2.000,2.000,,N,Y,Y
+ramsta-r980-nvme-pcie-4.0-m.2-512gb-700mbps-spees,10895,,,,,,WS,,,,,0.00,,,,,,,2150.00,Y,variable,0.000,,,N,,
+m.2-ramsta-512gb-ssd,10887,512GB M.2 NVME 4.0 FN960 SSD FIKWOT,Ssd & storage,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,iidc,0.00,Y,4300.00,0.000,,,N,Y,Y
+m.2-ramsta-512gb-ssd,10888,,,,,,WS,,,,,0.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+512gb-m.2-nvme-ssd-ramsta,10489,512GB M.2 NVME SSD RAMSTA,Ssd & storage,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,3000.00,Y,4300.00,2.000,1.000,,N,N,Y
+512gb-m.2-nvme-ssd-ramsta,10897,,,,,,WS,,,,,0.00,,,,,,,3000.00,Y,variable,0.000,,,N,,
+512gb-m.2-ssd-siliconpower,10087,512GB M.2 SSD SILICONPOWER,Ssd & storage,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,0.00,Y,3800.00,0.000,,,N,N,Y
+512gb-m.2-ssd-siliconpower,10088,,,,,,WS,,,,,0.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+512gb-ssd-biwin,10918,512GB SSD BIWIN,Ssd & storage,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,1500.00,Y,4700.00,6.000,,,N,N,Y
+512gb-ssd-biwin,10919,,,,,,WS,,,,,0.00,,,,,,,1500.00,Y,variable,0.000,,,N,,
+512gb-ssd-team-elite,10546,512GB SSD ESGAMING,Ssd & storage,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,2300.00,Y,3800.00,1.000,,,N,N,Y
+512gb-ssd-team-elite,10915,,,,,,WS,,,,,0.00,,,,,,,2300.00,Y,variable,0.000,,,N,,
+512gb-ssd-goldenfir,10916,512GB SSD GOLDENFIR,Ssd & storage,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,2200.00,Y,4300.00,1.000,,,N,N,Y
+512gb-ssd-goldenfir,10917,,,,,,WS,,,,,0.00,,,,,,,2200.00,Y,variable,0.000,,,N,,
+512gb-nvme-m.2-r900-3.0,10304,512GB SSD KINGFAST,Ssd & storage,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,iidc,2500.00,Y,4300.00,3.000,,,N,Y,Y
+512gb-nvme-m.2-r900-3.0,10913,,,,,,WS,,,,,0.00,,,,,,,2500.00,Y,variable,0.000,,,N,,
+ssd-ramsta-512gb,10807,512GB SSD RAMSTA,Ssd & storage,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,iidc,3000.00,Y,4300.00,5.000,,,N,Y,Y
+ssd-ramsta-512gb,10912,,,,,,WS,,,,,0.00,,,,,,,3000.00,Y,variable,0.000,,,N,,
+512gb-ssd-teamgroup,10104,512GB SSD TEAMGROUP,Ssd & storage,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,1500.00,Y,4300.00,3.000,,,N,N,Y
+512gb-ssd-teamgroup,10106,,,,,,WS,,,,,0.00,,,,,,,1500.00,Y,variable,0.000,,,N,,
+512gb-wd-m.2-2242-nvme-ssd-storage,10095,512GB WD M.2 2242 NVME SSD STORAGE,Ssd & storage,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,1350.00,Y,4300.00,3.000,,,N,N,Y
+512gb-wd-m.2-2242-nvme-ssd-storage,10099,,,,,,WS,,,,,0.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+8-ports-tenda-gigabit-1000mbps,11704,8 PORTS SWITCH HUB TENDA 1000MBPS,Network Accessories,,N,description,DISCOUNT,,,,,0.00,,,,Y,,iidc,621.00,Y,999.00,1.000,2.000,,N,Y,Y
+8-ports-tenda-gigabit-1000mbps,11710,,,,,,WS,,,,,0.00,,,,,,,621.00,Y,variable,0.000,,,N,,
+tenda-switch-hub-8port,10299,8 PORTS SWITCH HUB TENDA 100MBPS,Network Accessories,,N,description,discount,,,,,0.00,,,,Y,,iidc,288.00,Y,530.00,6.000,5.000,,N,Y,Y
+tenda-switch-hub-8port,10686,,,,,,ws,,,,,0.00,,,,,,,288.00,Y,variable,0.000,,,N,,
+16gb-(8gbx2)-pny-xlr8-gaming-ddr4-3200mhz,10124,8GB (8GBX2) PNY XLR8 GAMING DDR4 3200MHZ,Ram,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,4350.00,Y,6500.00,2.000,,,N,N,Y
+16gb-(8gbx2)-pny-xlr8-gaming-ddr4-3200mhz,10363,,,,,,WS,,,,,0.00,,,,,,,4350.00,Y,variable,0.000,,,N,,
+8gb-3200mhz-kingston-sodimm-ram,10242,8GB 3200MHZ KINGSTON SODIMM RAM,Ram,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,1000.00,Y,variable,2.000,,,N,N,Y
+8gb-3200mhz-kingston-sodimm-ram,10244,,,,,,WS,,,,,0.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+8gb-ddr3-kingston-hyper-fury,10900,8GB 3200MHZ TEAM ELITE SODIMM,Ram,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,400.00,Y,1500.00,1.000,1.000,,N,Y,Y
+8gb-ddr3-kingston-hyper-fury,10901,,,,,,WS,,,,,0.00,,,,,,,400.00,Y,variable,0.000,,,N,,
+8gb-natz-gaming-ram-2666hz,10989,8GB NATZ GAMING RAM 2666HZ,Ram,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,900.00,Y,3300.00,11.000,3.000,,N,N,Y
+8gb-natz-gaming-ram-2666hz,10990,,,,,,WS,,,,,0.00,,,,,,,900.00,Y,variable,0.000,,,N,,
+8gb-ram-faspeed-3200mhz,10114,8GB RAM FASPEED 3200MHZ,Ram,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,1200.00,Y,2700.00,0.000,,,N,N,Y
+8gb-ram-faspeed-3200mhz,10115,,,,,,WS,,,,,0.00,,,,,,,1200.00,Y,variable,0.000,,,N,,
+8gb-ram-team-elite-3200mhz,10116,8GB RAM TEAM ELITE 3200MHZ,Ram,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,1300.00,Y,3300.00,1.000,,,N,N,Y
+8gb-ram-team-elite-3200mhz,10117,,,,,,WS,,,,,0.00,,,,,,,1300.00,Y,variable,0.000,,,N,,
+8gb-ramsta-ram-ddr4-2666mhz,10238,8GB RAMSTA RAM DDR4 2666MHZ,Ram,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,1500.00,Y,3300.00,4.000,,,N,N,Y
+8gb-ramsta-ram-ddr4-2666mhz,10239,,,,,,WS,,,,,0.00,,,,,,,1500.00,Y,variable,0.000,,,N,,
+8gb-skihotar-ram-ddr4-3200mhz,10236,8GB SKIHOTAR RAM DDR4 3200MHZ,Ram,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,1500.00,Y,3300.00,1.000,,,N,N,Y
+8gb-skihotar-ram-ddr4-3200mhz,10237,,,,,,WS,,,,,0.00,,,,,,,1500.00,Y,variable,0.000,,,N,,
+8-ports-tplink-ls1008-non-giga,10671,8PORT SWITCH HUB TPLINK 100MBPS,Network Accessories,,N,description,DISCOUNT,,,,,0.00,,,,Y,,iidc,320.00,Y,570.00,0.000,2.000,,N,Y,Y
+8-ports-tplink-ls1008-non-giga,10683,,,,,,WS,,,,,0.00,,,,,,,320.00,Y,variable,0.000,,,N,,
+a10-7800-processor-3d-warranty,10102,A10 7800 AMD PROCESSOR,Processor,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,ting2 intino,750.00,Y,999.00,31.000,1.000,,N,Y,Y
+a10-7800-processor-3d-warranty,10103,,,,,,WS,,,,,0.00,,,,,,,750.00,Y,variable,5.000,,,N,,
+a10-9700,10300,A10 9700 PROCESOR,Processor,,N,,,,,,,0.00,,,,Y,,kenwell,550.00,Y,1999.00,1.000,1.000,,N,Y,Y
+a320-gigabyte-2days-warranty,10167,A320 gigabyte 2days warranty,Motherboard,,N,,,,,,,2100.00,,,,Y,,kenwell,0.00,Y,variable,0.000,1.000,,N,Y,Y
+a320-msi-gaming-pro,10496,a320 msi gaming pro,Motherboard,,N,,,,,,,2000.00,,,,Y,,ting2 intino,0.00,Y,2399.00,0.000,5.000,,N,Y,Y
+a320-ramsta-brandnew-6mos-warranty,10584,a320 ramsta brandnew 6mos warranty,Motherboard,,N,,,,,,,2200.00,,,,Y,,manila,0.00,Y,variable,0.000,,,N,Y,Y
+a4tech-usb-keyboard-&-mouse-bundle-krs---3330,10253,a4tech bundle krs - 3330 disassemble,Keyboard & mouse,,N,disassembly,bundle,,,,,442.17,,,,Y,,iidc,0.00,N,540.00,0.000,,,N,Y,Y
+a4tech-usb-keyboard-&-mouse-bundle-krs---3330,10702,,,,,,keyboard only,,,,,310.00,,,,,,,0.00,N,370.00,0.000,,,N,,
+a4tech-usb-keyboard-&-mouse-bundle-krs---3330,10701,,,,,,mouse,,,,,140.00,,,,,,,0.00,Y,195.00,0.000,,,N,,
+a4tech-usb-keyboard-&-mouse-bundle-krs---3330,10446,,,,,,ws,,,,,440.00,,,,,,,0.00,N,variable,0.000,,,N,,
+a4tech-usb-keyboard-&-mouse-set-krs-8372,10033,a4tech bundle krs-8372 disassembled,Keyboard & mouse,,N,disassembly,keyboard krs-8372,,,,,300.31,,,,Y,,iidc,0.00,Y,370.00,0.000,,,N,Y,Y
+a4tech-usb-keyboard-&-mouse-set-krs-8372,10120,,,,,,mouse krs - 8372,,,,,152.61,,,,,,,0.00,Y,210.00,4.000,,,N,,
+krs---3330-a4tech-keyboard-mouse,10511,A4tech keyboard mouse krs - 3330,Keyboard & mouse,,N,description,keyboard only,,,,,310.00,,,,Y,,iidc,0.00,Y,370.00,0.000,,,N,Y,Y
+krs---3330-a4tech-keyboard-mouse,10512,,,,,,krs - 3330 bundle,,,,,4.35,,,,,,,0.00,Y,540.00,0.000,,,N,,
+krs---3330-a4tech-keyboard-mouse,10510,,,,,,mouse only,,,,,140.00,,,,,,,0.00,Y,169.00,0.000,,,N,,
+krs---3330-a4tech-keyboard-mouse,10506,,,,,,ws,,,,,440.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+a4tech-bundle-krs-8372,10445,A4TECH KRS-8372 KEYBOARD & MOUSE BUNDLE,Keyboard & mouse,,N,,,,,,,0.00,,,,Y,,,450.00,Y,550.00,26.000,,,N,Y,Y
+a4tech-mouse,10001,A4TECH mouse,Keyboard & mouse,,N,,,,,,,145.00,,,,Y,,iidc,0.00,N,179.00,0.000,10.000,,N,Y,Y
+a4tech-op---720,10817,A4TECH MOUSE OP - 720,Keyboard & mouse,,N,description,DISCOUNT,,,,,0.00,,,,Y,,iidc,145.00,Y,210.00,8.000,5.000,,N,N,Y
+a4tech-op---720,10818,,,,,,WS,,,,,0.00,,,,,,,145.00,Y,variable,1.000,,,N,,
+a4tech-keyboard,10006,A4TECH only keyboard krs-8372,Keyboard & mouse,,N,,,,,,,290.00,,,,Y,,iidc,0.00,N,399.00,0.000,10.000,,N,Y,Y
+a4tech-op-620d-wired-usb-mouse-(black),10325,A4Tech OP-620D Wired USB Mouse (Black),Keyboard & mouse,,N,,,,,,,89.00,,,,Y,,kenwell,0.00,Y,120.00,0.000,1.000,,N,Y,Y
+biostar-a520mh-3.1-v6.0,10641,A520M BIOSTAR MOTHERBOARD,Motherboard,,N,Description,DISCOUNT,,,,,0.00,,,,Y,,iidc,2500.00,Y,3900.00,11.000,2.000,,N,Y,Y
+biostar-a520mh-3.1-v6.0,10642,,,,,,WS,,,,,0.00,,,,,,,2500.00,Y,variable,0.000,,,N,,
+a520m-hdv-asrock-motherboard,10975,A520M-HDV ASROCK MOTHERBOARD,Motherboard,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,2500.00,Y,3900.00,1.000,,,N,N,Y
+a520m-hdv-asrock-motherboard,10976,,,,,,WS,,,,,0.00,,,,,,,2500.00,Y,variable,0.000,,,N,,
+a520m-k-prime-asus-motherboard,10476,A520M-K PRIME ASUS MOTHERBOARD,Motherboard,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,0.00,Y,3900.00,0.000,,,N,N,Y
+a520m-k-prime-asus-motherboard,10974,,,,,,WS,,,,,0.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+amd-a8-7500,10749,A8 7500 AMD PROCESSOR,Processor,,N,description,DISCOUNT,,,,,0.00,,,,Y,,,350.00,Y,690.00,26.000,5.000,,N,Y,Y
+amd-a8-7500,10750,,,,,,WS,,,,,0.00,,,,,,,430.00,Y,variable,6.000,,,N,,
+a8-9600-3days-warranty,10318,A8 9600 AMD PROCESSOR,Processor,,N,,,,,,,999.00,,,,Y,,kenwell,0.00,Y,1699.00,1.000,1.000,,N,Y,Y
+ac-transformer-220-to-12vots,12113,AC TRANSFORMER 1 AMP. 220 TO 12 VOLTS,Vendo & pisonet parts Accessories,,N,description,discount,,,,,0.00,,,,Y,,iidc,45.00,Y,120.00,9.000,5.000,,N,Y,Y
+ac-transformer-220-to-12vots,12114,,,,,,ws,,,,,0.00,,,,,,,45.00,Y,variable,0.000,,,N,,
+adapter-12v-3a-generic,10982,ADAPTER 12V-3A GENERIC,Vendo & pisonet parts Accessories,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,65.00,Y,269.00,9.000,,,N,N,Y
+adapter-12v-3a-generic,10983,,,,,,WS,,,,,0.00,,,,,,,65.00,Y,variable,0.000,,,N,,
+coinslot,10240,ALLAN COINSLOT 1239 UNIVERSAL,Vendo & pisonet parts Accessories,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,iidc,370.00,Y,410.00,18.000,,,N,Y,Y
+coinslot,10677,,,,,,WS,,,,,0.00,,,,,,,370.00,Y,variable,0.000,,,N,,
+allan-dual-timer-42,10370,ALLAN OLD TIMER,service unit / pisonet maintenance,,N,description,DISCOUNT,,,,,0.00,,,,Y,,iidc,150.00,Y,210.00,49.000,1.000,,N,Y,Y
+allan-dual-timer-42,10707,,,,,,WS,,,,,0.00,,,,,,,150.00,Y,variable,0.000,,,N,,
+amd-heatsink-fan-2-pipes,10375,AMD HEATSINK FAN 2 PIPES,computer parts,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,0.00,Y,350.00,3.000,,,N,N,Y
+amd-heatsink-fan-2-pipes,10380,,,,,,WS,,,,,0.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+amd-radeon-rx-9070-sapphire-nitro+-gaming-oc--16gb-tri-fan,10084,AMD RADEON RX 9070 SAPPHIRE NITRO+ GAMING OC  16GB TRI FAN,Graphics card,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,0.00,Y,variable,0.000,,,N,N,Y
+amd-radeon-rx-9070-sapphire-nitro+-gaming-oc--16gb-tri-fan,10086,,,,,,WS,,,,,0.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+amd-ryzen-7-7800x3d-processor,10061,AMD RYZEN 7 7800X3D PROCESSOR,Processor,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,0.00,Y,variable,0.000,,,N,N,Y
+amd-ryzen-7-7800x3d-processor,10062,,,,,,WS,,,,,0.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+wraith-fan,10134,AMD WRAITH FAN,Cpu fan & rgb fans,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,80.00,Y,350.00,6.000,,,N,N,Y
+wraith-fan,10373,,,,,,WS,,,,,0.00,,,,,,,80.00,Y,variable,0.000,,,N,,
+ampcom-rj45-cat6-tester,10055,AMPCOM RJ45 CAT6 TESTER,Cables & wirings,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,239.00,Y,550.00,6.000,,,N,N,Y
+ampcom-rj45-cat6-tester,10057,,,,,,WS,,,,,0.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+ampcom-rj45-crimper-tools,10058,AMPCOM RJ45 CRIMPER TOOLS,Cables & wirings,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,845.00,Y,1299.00,1.000,,,N,N,Y
+ampcom-rj45-crimper-tools,10060,,,,,,WS,,,,,0.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+blower-fan-protector/-anti-koot,10119,ANTI THEAF/ BLOWER FAN PROTECTOR,Vendo & pisonet parts Accessories,,N,,,,,,,0.00,,,,Y,,iidc,10.00,Y,59.00,10.000,5.000,,N,Y,Y
+"3-unit-a8-7500,-fm2+-mobo,-128-ssd,-8gb,-19-inches",10732,ASSORTED GTX 750TI DDR5 2GB (MIX),Graphics card,,N,description,discount,,,,,0.00,,,,Y,,ting2 intino,0.00,Y,2800.00,0.000,,,N,N,Y
+"3-unit-a8-7500,-fm2+-mobo,-128-ssd,-8gb,-19-inches",11562,,,,,,ws,,,,,0.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+128gb-ramsta-kenwell,11559,ASSORTED INTEL MOTHERBOARD 6TH TO 10TH GEN.,Motherboard,,N,Description,10TH GEN,,,,,0.00,,,,Y,,ting2 intino,1950.00,Y,2850.00,9.000,,,N,Y,Y
+128gb-ramsta-kenwell,10661,,,,,,6TH TO 7TH GEN,,,,,0.00,,,,,,,1490.00,Y,1990.00,9.000,,,N,,
+128gb-ramsta-kenwell,10662,,,,,,8TH TO 9TH GEN,,,,,0.00,,,,,,,1850.00,Y,2550.00,3.000,,,N,,
+rx550-amd-radeon-ddr5-2gb,11560,ASSORTED RX580 DDR5 8GB (MIX),Graphics card,,N,description,discount,,,,,2112.01,,,,Y,,ting2 intino,0.00,Y,4899.00,0.000,,,N,Y,Y
+rx550-amd-radeon-ddr5-2gb,11561,,,,,,ws,,,,,2112.01,,,,,,,0.00,Y,variable,0.000,,,N,,
+assorted-ssd-120gb---128gb-(mix),11477,ASSORTED SSD 120GB - 128GB (MIX),Ssd & storage,,N,description,discount,,,,,0.00,,,,Y,,ting2 intino,600.00,Y,950.00,4.000,,,N,N,Y
+assorted-ssd-120gb---128gb-(mix),11563,,,,,,ws,,,,,0.00,,,,,,,600.00,Y,variable,0.000,,,N,,
+samsung-ssd-120gb-assorted,10034,ASSORTED SSD 250GB - 256GB (MIX),Ssd & storage,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,iidc,1000.00,Y,1650.00,13.000,,,N,N,Y
+samsung-ssd-120gb-assorted,10175,,,,,,WS,,,,,0.00,,,,,,,1000.00,Y,variable,2.000,,,N,,
+assorted-ssd-960gb---1tb-(mix),10189,ASSORTED SSD 960GB - 1TB (MIX),Ssd & storage,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,3250.00,Y,5200.00,5.000,,,N,N,Y
+assorted-ssd-960gb---1tb-(mix),10190,,,,,,WS,,,,,0.00,,,,,,,3250.00,Y,variable,0.000,,,N,,
+asus-h610m-r-ddr4,11801,ASUS H610M R DDR4,Motherboard,,N,description,SAM0CS06U4857LC,,,,,0.00,,,,Y,,,0.00,Y,variable,0.000,,,N,N,Y
+asus-h610m-r-ddr4,11802,,,,,,SAM0CS06U487ZVP,,,,,0.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+asus-h610m-r-ddr4,11800,,,,,,SAM0CS06U488AWX,,,,,0.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+athlon-3000g-ambago-/-take-all,10013,ATHLON 200GE AMD PROCESSOR,Processor,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,kenwell,0.00,Y,variable,0.000,,,N,Y,Y
+athlon-3000g-ambago-/-take-all,10174,,,,,,WS,,,,,0.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+aula-mechanical-keyboard-assorted-black,10361,AULA MECHANICAL KEYBOARD ASSORTED BLACK,Keyboard & mouse,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,0.00,Y,890.00,0.000,1.000,,N,N,Y
+aula-mechanical-keyboard-assorted-black,10963,,,,,,WS,,,,,0.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+aula-sc580-wireless-mouse-black-&-white,10049,AULA SC580 WIRELESS MOUSE BLACK & WHITE,Keyboard & mouse,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,0.00,Y,variable,0.000,,,N,N,Y
+aula-sc580-wireless-mouse-black-&-white,10170,,,,,,WS,,,,,0.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+avr-secure,10742,AVR SECURE,"Power supply, AVR & UPS",,N,description,DISCOUNT,,,,,0.00,,,,Y,,iidc,225.00,Y,320.00,11.000,5.000,,N,Y,Y
+avr-secure,10743,,,,,,WS,,,,,0.00,,,,,,,225.00,Y,variable,0.000,,,N,,
+b150m-msi-gaming-pro,10497,B150M MSI GAMING PRO,Motherboard,,N,,,,,,,1500.00,,,,Y,,ting2 intino,1450.00,Y,variable,0.000,,,N,Y,Y
+b365m-pro-vh-msi-2nd-hand,11557,B365M PRO-VH MSI 2ND HAND,Motherboard,,N,description,discount,,,,,0.00,,,,Y,,,1600.00,Y,2900.00,9.000,,,N,N,Y
+b365m-pro-vh-msi-2nd-hand,11558,,,,,,ws,,,,,0.00,,,,,,,1600.00,Y,variable,2.000,,,N,,
+b450m-biostar-motherboard,10128,B450M BIOSTAR MOTHERBOARD,Motherboard,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,0.00,Y,variable,0.000,,,N,N,Y
+b450m-biostar-motherboard,10131,,,,,,WS,,,,,0.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+b550m-asrock-gaming-pro4-motherboard,10044,B550M ASROCK GAMING PRO4 MOTHERBOARD,Motherboard,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,4500.00,Y,6500.00,2.000,,,N,N,Y
+b550m-asrock-gaming-pro4-motherboard,10045,,,,,,WS,,,,,0.00,,,,,,,4500.00,Y,variable,0.000,,,N,,
+msi-b550m-pro-vdh-wifi-motherboard,10386,B550M K GIGABYTE MOTHERBOARD,Motherboard,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,jc go,3600.00,Y,6000.00,1.000,1.000,,N,Y,Y
+b560m-pro-msi-intel-motherboard,10243,B560M PRO MSI INTEL MOTHERBOARD,Motherboard,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,2100.00,Y,2900.00,9.000,1.000,,N,N,Y
+b560m-pro-msi-intel-motherboard,10790,,,,,,WS,,,,,0.00,,,,,,,2100.00,Y,variable,0.000,,,N,,
+b660m-gaming-ac-motherboard-wifi-ready,10154,B660M GAMING AC MOTHERBOARD WIFI READY,Motherboard,,N,description,discount,,,,,0.00,,,,Y,,,0.00,Y,8500.00,0.000,,,N,N,Y
+b660m-gaming-ac-motherboard-wifi-ready,10472,,,,,,ws,,,,,0.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+blower-fan,11430,BLOWER FAN,Accessories,,N,,,,,,,0.00,,,,Y,,,0.00,Y,750.00,0.000,,,N,N,Y
+jinhua-in323-usb-to-lan-3.0-gigabit,10710,BLUETOOTH DONGLE,Accessories,,N,,,,,,,0.00,,,,Y,,iidc,90.00,Y,175.00,1.000,1.000,,N,Y,Y
+bluetooth-usb-dongle-2.0,11614,BLUETOOTH USB DONGLE 2.0,Accessories,,N,description,discount,,,,,0.00,,,,Y,,,0.00,Y,175.00,7.000,,,N,N,Y
+bluetooth-usb-dongle-2.0,11615,,,,,,ws,,,,,0.00,,,,,,,0.00,Y,variable,5.000,,,N,,
+promo-fm2+-asus-/-gigabyte-bundle-3days-warranty,10381,BUNDLE A8 7500 FM2+ GIGABYTE/ASUS MOTHERBOARD,Processor,,N,,,,,,,,,10749,1.000,N,N,,,Y,1500.00,,,,N,Y,Y
+,,,,,,,,,,,,,,10643,1.000,,,,,,,,,,,,
+cable-network-tester,10035,CABLE TESTER NETWORK BOSHENG,Cables & wirings,,N,,,,,,,98.11,,,,Y,,iidc,0.00,Y,190.00,3.000,2.000,,N,Y,Y
+cctv-dc-bnc-adapter-female,10203,CCTV DC BNC ADAPTER FEMALE,CCTV & camera,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,7.00,Y,20.00,30.000,,,N,N,Y
+cctv-dc-bnc-adapter-female,10212,,,,,,WS,,,,,0.00,,,,,,,7.00,Y,variable,0.000,,,N,,
+centralized-psu-3-amperes-cctv-pisowifi,10554,"CENTRALIZED PSU 3 AMPERES CCTV, PISOWIFI",Vendo & pisonet parts Accessories,,N,,,,,,,0.00,,,,Y,,manila,150.00,Y,290.00,5.000,5.000,,N,Y,Y
+cmos-battery-tmmq-cr2032-lithium,10490,CMOS BATTERY CR2032 LITHIUM,computer parts,,N,,,,,,,0.00,,,,Y,,iidc,15.00,Y,35.00,22.000,5.000,,N,Y,Y
+comfast-cf-e314n-v2-cpe-2.4-300-mbps,10268,COMFAST CF E314N V2 AP OUTDOOR ANTENNA,Vendo & pisonet parts Accessories,,N,description,DISCOUNT,,,,,1374.34,,,,Y,,iidc,0.00,Y,1600.00,0.000,,,N,Y,Y
+comfast-cf-e314n-v2-cpe-2.4-300-mbps,10770,,,,,,WS,,,,,1373.95,,,,,,,0.00,Y,variable,0.000,,,N,,
+comfast-cf-ew81-outdoor-ap-300-mbps-vlan-3-ports-high-power,11038,COMFAST CF EW81 OUTDOOR AP 300MBPS ANTENNA,Vendo & pisonet parts Accessories,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,iidc,1400.00,Y,1900.00,0.000,1.000,,N,Y,Y
+comfast-cf-ew81-outdoor-ap-300-mbps-vlan-3-ports-high-power,11040,,,,,,WS,,,,,0.00,,,,,,,1400.00,Y,variable,0.000,,,N,,
+outdoor-cat6-utp-cable-/roll,10383,COMLINK UTP CABLE CAT6 OUTDOOR,Cables & wirings,,N,sold by,meter,,,,,5.24,,,,Y,,iidc,0.00,Y,15.00,0.000,,,N,Y,Y
+outdoor-cat6-utp-cable-/roll,10398,,,,,,roll / 300mtrs.,,,,,1599.00,,,,,,,0.00,Y,2200.00,0.000,,,N,,
+outdoor-cat6-utp-cable-/roll,10758,,,,,,ws,,,,,1599.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+allan-sc-sc-upc-optical-fiber-optic-adapter-coupler,10355,COUPLER AC/AC FIBER,Network Accessories,,N,,,,,,,10.00,,,,Y,,manila,0.00,Y,89.00,21.000,5.000,,N,Y,Y
+crimping-service,10972,CRIMPING SERVICE,service unit / pisonet maintenance,,N,,,,,,,0.00,,,,Y,,,0.00,Y,7.00,16.000,,,N,N,Y
+assorted-crucial-2666-8gb-ram,11818,CRUCIAL DDR 5  3200MHZ 16GB RAM,Ram,,N,description,DISCOUNT,,,,,0.00,,,,Y,,,5000.00,Y,11000.00,1.000,1.000,,N,N,Y
+dahua-4-channel-dh-kit-cv12mpzbzt-1-2mp-1080p-hdcvi-kit,10188,DAHUA 4 CHANNEL DH-KIT-CV12MPZBZT-1 2MP 1080P HDCVI KIT,CCTV & camera,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,4230.00,Y,7500.00,1.000,,,N,N,Y
+dahua-4-channel-dh-kit-cv12mpzbzt-1-2mp-1080p-hdcvi-kit,10206,,,,,,WS,,,,,0.00,,,,,,,4230.00,Y,variable,1.000,,,N,,
+4-channels-dahua,10310,DAHUA 4 CHANNEL FULL-COLOR,CCTV & camera,,N,,,,,,,0.00,,,,Y,,iidc,8600.00,Y,9000.00,1.000,,,N,Y,Y
+dahua-hero-a1-pan-tilt-wifi-camera,10047,DAHUA HERO 1 PAN TILT WIFI CCTV CAMERA,CCTV & camera,,N,description,( H2A ) 2MP,,,,,1045.45,,,,Y,,amax dahua,0.00,Y,1200.00,0.000,,,N,N,Y
+dahua-hero-a1-pan-tilt-wifi-camera,10515,,,,,,( H3A ) 3MP,,,,,1045.45,,,,,,,0.00,Y,1350.00,9.000,,,N,,
+dahua-hero-a1-pan-tilt-wifi-camera,10804,,,,,,( H4A ) 4MP,,,,,1045.45,,,,,,,0.00,Y,1350.00,2.000,,,N,,
+dahua-hero-a1-pan-tilt-wifi-camera,10805,,,,,,( H5A ) 5MP,,,,,1045.45,,,,,,,0.00,Y,1465.00,6.000,,,N,,
+dahua-ir-eyeball-camera-full-color,10080,DAHUA IR EYEBALL CAMERA FULL COLOR,CCTV & camera,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,1340.00,Y,1590.00,0.000,,,N,N,Y
+dahua-ir-eyeball-camera-full-color,10267,,,,,,WS,,,,,0.00,,,,,,,0.00,Y,variable,2.000,,,N,,
+ajhua-ir-eyeball-camera-non-color,10040,DAHUA IR EYEBALL CAMERA NON COLOR,CCTV & camera,,N,,,,,,,0.00,,,,Y,,iidc,1290.00,Y,1799.00,1.000,2.000,,N,Y,Y
+darkflash-atx-dual-chamber-gaming-case-v2-black,10076,DARKFLASH ATX DUAL CHAMBER GAMING CASE V2 BLACK,Casing,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,0.00,Y,variable,0.000,,,N,N,Y
+darkflash-atx-dual-chamber-gaming-case-v2-black,10081,,,,,,WS,,,,,0.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+4gb-ddr3-ramsta-1600mhz,10673,DDR3 8GB ASSORTED RAM USED 1 WEEK WARRANTY,composite items,,N,description,discount,,,,,230.00,,,,Y,,ting2 intino,0.00,Y,650.00,0.000,,,N,Y,Y
+4gb-ddr3-ramsta-1600mhz,10674,,,,,,ws,,,,,0.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+8gb-ddr4-assorted-ram,10680,DDR4 8GB ASSORTED RAM USED 1 WEEK WARRANTY,composite items,,N,description,discount,,,,,750.00,,,,Y,,ting2 intino,0.00,Y,750.00,3.000,5.000,,N,Y,Y
+8gb-ddr4-assorted-ram,11564,,,,,,ws,,,,,0.00,,,,,,,0.00,Y,variable,5.000,,,N,,
+dp-to-dp-1.5,11594,DP TO DP 1.5,Cables & wirings,,N,description,DISCOUNT,,,,,0.00,,,,Y,,,99.00,Y,265.00,30.000,,,N,N,Y
+dp-to-dp-1.5,10262,,,,,,WS,,,,,0.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+dp-to-hdmi-adaptor,11598,DP TO HDMI ADAPTOR,Cables & wirings,,N,description,discount,,,,,150.00,,,,Y,,,0.00,Y,270.00,4.000,,,N,N,Y
+dp-to-hdmi-adaptor,11599,,,,,,ws,,,,,0.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+dp-to-vga-cable-1.8m,11596,DP TO VGA CABLE 1.8M,Cables & wirings,,N,description,discount,,,,,0.00,,,,Y,,,150.00,Y,250.00,10.000,,,N,N,Y
+dp-to-vga-cable-1.8m,11597,,,,,,ws,,,,,0.00,,,,,,,150.00,Y,variable,0.000,,,N,,
+monitor-mount-bracket-computer-monitor-desktop-mount-monitor-arm,10372,DUAL MONITOR ROTATABLE BRACKET ANSEN,Accessories,<p>dual monitor rotatable bracket Desktop Mount Monitor Arm</p>,N,,,,,,,0.00,,,,Y,,kenwell,899.00,Y,1499.00,2.000,2.000,,N,Y,Y
+opi-one-gst-wires,10098,DUPONT WIRE,Vendo & pisonet parts Accessories,,N,,,,,,,0.00,,,,Y,,iidc,2.00,Y,5.00,39.000,,,N,Y,Y
+dvi-cable-jinhua,10142,DVI CABLE JINHUA,Cables & wirings,,N,,,,,,,0.00,,,,Y,,,150.00,Y,350.00,4.000,,,N,N,Y
+dvi-to-vga-adaptor-24+1,10217,DVI TO VGA ADAPTOR 24+1,converter cables & others,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,65.00,Y,130.00,15.000,,,N,N,Y
+dvi-to-vga-adaptor-24+1,10219,,,,,,WS,,,,,0.00,,,,,,,65.00,Y,variable,0.000,,,N,,
+edifier-speaker-m1250-black,10214,EDIFIER SPEAKER M1250 BLACK,Headset and Speaker,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,745.00,Y,890.00,2.000,1.000,,N,N,Y
+edifier-speaker-m1250-black,10215,,,,,,WS,,,,,0.00,,,,,,,745.00,Y,variable,0.000,,,N,,
+edifier-wireless-headset-w110t-black-&-white,11111,EDIFIER WIRELESS HEADSET W110T BLACK & WHITE,Headset and Speaker,,N,DESCRIPTION,BLACK,,,,,0.00,,,,Y,,,825.00,Y,1175.00,1.000,,,N,N,Y
+edifier-wireless-headset-w110t-black-&-white,11112,,,,,,WHITE,,,,,0.00,,,,,,,825.00,Y,1195.00,0.000,,,N,,
+printer-epson-l121,10000,EPSON L121 PRINTER,computer parts,,N,descriptions,DISCOUNT,,,,,5357.80,,,,Y,,iidc,0.00,Y,7500.00,0.000,,,N,Y,Y
+printer-epson-l121,10012,,,,,,WS,,,,,0.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+epson-l3210-3in1,10555,EPSON L3210 PRINTER,computer parts,,N,Description,Discount,,,,,0.00,,,,Y,,iidc,8525.00,Y,10500.00,3.000,1.000,,N,Y,Y
+epson-l3210-3in1,10556,,,,,,Ws,,,,,0.00,,,,,,,8525.00,Y,variable,0.000,,,N,,
+epson-l5290,10709,EPSON L5290 PRINTER,computer parts,,N,,,,,,,0.00,,,,Y,,iidc,13090.00,Y,15500.00,2.000,,,N,Y,Y
+ew71,10359,EW71 V2 AP COMFAST OUTDOOR ANTENNA,Vendo & pisonet parts Accessories,,N,description,DISCOUNT,,,,,0.00,,,,Y,,iidc,1100.00,Y,1350.00,4.000,,,N,N,Y
+ew71,10819,,,,,,WS,,,,,0.00,,,,,,,1100.00,Y,variable,0.000,,,N,,
+inclosure-2.5-external-case,10025,EXTERNAL CASE ENCLOUSURE HDD/SSD,Ssd & storage,,N,,,,,,,0.00,,,,Y,,manila,150.00,Y,270.00,1.000,1.000,,N,Y,Y
+crimper-passthrough,11620,EZY CRIMPER TOOLS PASSTHROUGH,Accessories,,N,description,discount,,,,,357.88,,,,Y,,iidc,0.00,Y,510.00,1.000,,,N,Y,Y
+crimper-passthrough,11621,,,,,,ws,,,,,357.88,,,,,,,0.00,Y,variable,0.000,,,N,,
+fantech-g10-rhasta-gaming-mouse-black,10138,FANTECH G10 RHASTA GAMING MOUSE BLACK,Keyboard & mouse,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,239.00,Y,360.00,29.000,,,N,N,Y
+fantech-g10-rhasta-gaming-mouse-black,10139,,,,,,WS,,,,,0.00,,,,,,,239.00,Y,variable,0.000,,,N,,
+rhasta-fantech---g10,12216,FANTECH G13 RHASTA II GAMING MOUSE BLACK,Keyboard & mouse,,N,description,DISCOUNT,,,,,0.00,,,,Y,,kai lu,240.00,Y,360.00,1.000,2.000,,N,Y,Y
+rhasta-fantech---g10,12217,,,,,,WS,,,,,0.00,,,,,,,240.00,Y,variable,0.000,,,N,,
+fm2+-asus-7-days-warranty,10643,FM2+ GIGABYTE & ASUS MOTHERBOARD,Motherboard,,N,description,DISCOUNT,,,,,0.00,,,,Y,,ting2 intino,758.00,Y,1350.00,32.000,5.000,,N,Y,Y
+fm2+-asus-7-days-warranty,10207,,,,,,WS,,,,,0.00,,,,,,,1000.00,Y,variable,3.000,,,N,,
+formica,10307,FORMICA,Vendo & pisonet parts Accessories,,N,,,,,,,330.00,,,,Y,,iidc,0.00,Y,459.00,0.000,0.000,,N,Y,Y
+g20-heatsink-rgb-fan-100watts,10050,G20 HEATSINK RGB FAN 100WATTS,Cpu fan & rgb fans,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,300.00,Y,450.00,1.000,1.000,,N,N,Y
+g20-heatsink-rgb-fan-100watts,10706,,,,,,WS,,,,,0.00,,,,,,,300.00,Y,variable,0.000,,,N,,
+g210-1gb-ddr3-gpu-nvidia,10256,G210 1GB DDR3 GPU NVIDIA,Graphics card,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,400.00,Y,1200.00,10.000,,,N,N,Y
+g210-1gb-ddr3-gpu-nvidia,10257,,,,,,WS,,,,,0.00,,,,,,,400.00,Y,variable,0.000,,,N,,
+gamdias-27-inches-curved-gaming-monitor-180hz-hd27g-ii,10966,GAMDIAS 27 INCHES CURVED GAMING MONITOR 180HZ HD27G II,Monitors & TV,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,6000.00,Y,8199.00,2.000,1.000,,N,N,Y
+gamdias-27-inches-curved-gaming-monitor-180hz-hd27g-ii,10967,,,,,,WS,,,,,0.00,,,,,,,6000.00,Y,variable,0.000,,,N,,
+gamdias-27-inches-gaming-monitor-200hz-hd27hic-iii,10968,GAMDIAS 27 INCHES GAMING MONITOR 200HZ HD27HIC III,Monitors & TV,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,5550.00,Y,7899.00,1.000,,,N,N,Y
+gamdias-27-inches-gaming-monitor-200hz-hd27hic-iii,10969,,,,,,WS,,,,,0.00,,,,,,,5550.00,Y,variable,0.000,,,N,,
+gamdias-aura-triple-fan-aio-rgb-hydraulic-bearing,10074,GAMDIAS AURA TRIPLE FAN AIO RGB HYDRAULIC BEARING,Monitors & TV,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,0.00,Y,variable,0.000,,,N,N,Y
+gamdias-aura-triple-fan-aio-rgb-hydraulic-bearing,10075,,,,,,WS,,,,,0.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+geforce-1660-super-colorful-gpu-6gb-ddr6,10132,GEFORCE 1660 SUPER COLORFUL GPU 6GB DDR6,Graphics card,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,6500.00,Y,8500.00,1.000,,,N,N,Y
+geforce-1660-super-colorful-gpu-6gb-ddr6,10135,,,,,,WS,,,,,0.00,,,,,,,6500.00,Y,variable,0.000,,,N,,
+pny-rtx-3050-6gb,10724,GEFORCE RTX 3050 6GB OC PSU,Graphics card,,N,description,DISCOUNT,,,,,10282.11,,,,Y,,iidc,0.00,Y,12900.00,0.000,,,N,Y,Y
+pny-rtx-3050-6gb,10726,,,,,,WS,,,,,10282.11,,,,,,,0.00,Y,variable,0.000,,,N,,
+gigabyte-b150-6th-&-7th-gen,10291,GIGABYTE B150 6TH & 7TH GEN,Motherboard,,N,,,,,,,1500.00,,,,Y,,ting2 intino,1490.00,Y,1799.00,0.000,5.000,,N,Y,Y
+gigabyte-fully-modular-1000w-80+-gold-psu,10072,GIGABYTE FULLY MODULAR 1000W 80+ GOLD PSU,"Power supply, AVR & UPS",,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,0.00,Y,variable,0.000,,,N,N,Y
+gigabyte-fully-modular-1000w-80+-gold-psu,10073,,,,,,WS,,,,,0.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+gigabyte-h610m-k-ddr4,10165,GIGABYTE H610M K MOTHERBOARD,Motherboard,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,iidc,3000.00,Y,5000.00,5.000,,,N,Y,Y
+gigabyte-h610m-k-ddr4,10198,,,,,,WS,,,,,0.00,,,,,,,3000.00,Y,variable,0.000,,,N,,
+gt-730-1x6-pin-5d-warranty,10208,GT730 2GB DDR5 GPU,Graphics card,,N,description,discount,,,,,0.00,,,,Y,,ting2 intino,1600.00,Y,2500.00,5.000,2.000,,N,Y,Y
+gt-730-1x6-pin-5d-warranty,11565,,,,,,ws,,,,,0.00,,,,,,,1600.00,Y,variable,0.000,,,N,,
+gt730k-2gb-128bit,10987,GT730 4GB DDR3 GPU,Graphics card,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,ting2 intino,1350.00,Y,2900.00,11.000,2.000,,N,Y,Y
+gt730k-2gb-128bit,10988,,,,,,WS,,,,,0.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+h20-black-headset,10957,H20 INPLAY HEADSET BLACK,Headset and Speaker,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,iidc,215.00,Y,275.00,27.000,,,N,Y,Y
+h20-black-headset,10958,,,,,,WS,,,,,0.00,,,,,,,215.00,Y,variable,0.000,,,N,,
+headset-h20-white,10014,H20 INPLAY HEADSET WHITE,Headset and Speaker,,N,,,,,,,245.00,,,,Y,,iidc,0.00,Y,295.00,0.000,5.000,,N,N,N
+h310-gigabyte-3d-warranty,11102,H310 GIGABYTE 3 DAYS WARRANTY,Motherboard,,N,S/N,SN184550005968,,,,,1900.00,4719331803803,,,Y,,manila,0.00,Y,variable,0.000,0.000,,N,N,Y
+h410m-s2-gigabyte-mobo,10748,H410M-S2 GIGABYTE MOBO,Motherboard,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,1600.00,Y,2850.00,3.000,1.000,,N,N,Y
+h410m-s2-gigabyte-mobo,10752,,,,,,WS,,,,,0.00,,,,,,,1600.00,Y,variable,0.000,,,N,,
+biostar-h510m-intel,10421,H510M K V2 GIGABYTE MOTHERBOARD,Big Letter,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,iidc,0.00,Y,4900.00,1.000,,,N,Y,Y
+biostar-h510m-intel,10978,,,,,,WS,,,,,0.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+core-i5-3rd-gen,10027,H61 GIGABYTE 1155 2ND & 3RD GEN MOTHERBOARD,Big Letter,,N,discription,DISCOUNT,,,,,0.00,,,,Y,,ting2 intino,999.00,Y,1600.00,13.000,2.000,,N,Y,Y
+core-i5-3rd-gen,10596,,,,,,WS,,,,,0.00,,,,,,,999.00,Y,variable,0.000,,,N,,
+h81-motherboard-asus-&-gigabyte-3d-warranty,10747,H81 MOTHERBOARD PEGATRON 4TH GEN,Motherboard,,N,DESCRIPTION,DISCOUNT,,,,,1200.00,,,,Y,,ting2 intino,0.00,Y,1800.00,0.000,2.000,,N,Y,Y
+h81-motherboard-asus-&-gigabyte-3d-warranty,10477,,,,,,WS,,,,,0.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+hdmi-2k/4k-support-jinhua,10278,HDMI 2K/4K SUPPORT JINHUA,Cables & wirings,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,120.00,Y,170.00,8.000,2.000,,N,N,Y
+hdmi-2k/4k-support-jinhua,10289,,,,,,WS,,,,,0.00,,,,,,,120.00,Y,variable,0.000,,,N,,
+hdmi-cable,10264,HDMI CABLE 1.5M GENERIC,Cables & wirings,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,manila,55.00,Y,100.00,17.000,1.000,,N,Y,Y
+hdmi-cable,10266,,,,,,WS,,,,,0.00,,,,,,,55.00,Y,variable,0.000,,,N,,
+hdmi-cable-10m-(red),11602,HDMI CABLE 10M (RED),Cables & wirings,,N,description,discount,,,,,0.00,,,,Y,,,0.00,Y,690.00,5.000,,,N,N,Y
+hdmi-cable-10m-(red),11603,,,,,,ws,,,,,0.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+hdmi-high-bandwidth-3meters,10083,HDMI CABLE 3 METERS,Cables & wirings,,N,,,,,,,120.00,,,,Y,,manila,110.00,Y,130.00,0.000,1.000,,N,Y,Y
+hdmi-cable-braided-1.5-m,12105,HDMI CABLE BRAIDED 1.5 M,Cables & wirings,,N,,,,,,,0.00,,,,Y,,,100.00,Y,130.00,2.000,,,N,N,Y
+hdmi-splitter-1-in-4-out,10337,HDMI SPLIITER 1 IN 4 OUT 1X4,converter cables & others,,N,,,,,,,390.00,,,,Y,,kenwell,0.00,Y,639.00,2.000,1.000,,N,Y,Y
+hdmi-to-dvi-cable-1.5,11592,HDMI TO DVI CABLE 1.5,Cables & wirings,,N,description,discount,,,,,0.00,,,,Y,,,150.00,Y,280.00,2.000,,,N,N,Y
+hdmi-to-dvi-cable-1.5,11593,,,,,,ws,,,,,0.00,,,,,,,150.00,Y,variable,0.000,,,N,,
+hdmi-to-vga-adapter-1,10007,HDMI TO VGA ADAPTER,converter cables & others,,N,,,,,,,0.00,,,,Y,,,,Y,175.00,5.000,,,N,N,Y
+hdmi-to-vga-adaptor-mtvk,11586,HDMI TO VGA ADAPTOR MTVK,Big Letter,,N,description,discount,,,,,0.00,,,,Y,,,0.00,Y,250.00,-2.000,,,N,N,Y
+hdmi-to-vga-adaptor-mtvk,11587,,,,,,ws,,,,,0.00,,,,,,,0.00,Y,variable,-1.000,,,N,,
+hdmi-to-vga-adapter,10085,HDMI TO VGA CABLE,converter cables & others,,N,,,,,,,95.00,,,,Y,,manila,0.00,Y,260.00,10.000,,,N,Y,Y
+hdmi-to-vga-w/-audio-satako,11584,HDMI TO VGA W/ AUDIO SATAKO,converter cables & others,,N,description,discount,,,,,0.00,,,,Y,,,0.00,Y,290.00,1.000,,,N,N,Y
+hdmi-to-vga-w/-audio-satako,11585,,,,,,ws,,,,,0.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+hkc-55-inches-google-tv-led-android,10245,HKC 55 INCHES GOOGLE-TV LED ANDROID,Monitors & TV,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,16000.00,Y,variable,0.000,,,N,N,Y
+hkc-55-inches-google-tv-led-android,10247,,,,,,WS,,,,,0.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+hkc-hu40-ddr4-16gb-3200mhz,12229,HKC HU40 16GB RAM DDR4 3200MHZ,Ram,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,iidc,1750.00,Y,4600.00,1.000,2.000,,N,Y,Y
+hkc-hu40-ddr4-16gb-3200mhz,12230,,,,,,WS,,,,,0.00,,,,,,,1750.00,Y,variable,0.000,,,N,,
+hkc-8gb-2666mhz,10046,HKC RAM 8GB DDR4 2666MHZ,Ram,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,iidc,0.00,Y,variable,0.000,,,N,Y,Y
+hkc-8gb-2666mhz,10065,,,,,,WS,,,,,0.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+hpp-padlock-40mm,10602,HPPD PADLOCK 40MM,Accessories,,N,description,discount,,,,,45.17,,,,Y,,iidc,0.00,Y,75.00,0.000,0.000,,N,Y,Y
+hpp-padlock-40mm,10603,,,,,,ws,,,,,45.18,,,,,,,0.00,Y,variable,0.000,,,N,,
+ht220-bluetooth-wireless-headset,12225,HT220 BLUETOOTH WIRELESS HEADSET,Headset and Speaker,,N,,,,,,,0.00,,,,Y,,,,Y,790.00,4.000,,,N,N,Y
+hyper-x-16gb-ram-ddr4-2666mhz,10926,HYPER X 16GB RAM DDR4 2666MHZ,Ram,,N,serial #,5B4QW-4B3IW0-2CW65,,,,,1600.00,,,,Y,,iidc,0.00,Y,variable,1.000,,,N,N,Y
+hyper-x-16gb-ram-ddr4-2666mhz,10927,,,,,,5B4R0-3B3IXU-2CW6X,,,,,1600.00,,,,,,,0.00,Y,variable,1.000,,,N,,
+hyper-x-16gb-ram-ddr4-2666mhz,10928,,,,,,5B4RI-3B3IXL-2CW6R,,,,,1600.00,,,,,,,0.00,Y,variable,1.000,,,N,,
+hyper-x-16gb-ram-ddr4-2666mhz,10925,,,,,,5B4RK-3B3IX0-2CW6T,,,,,1600.00,,,,,,,0.00,Y,2799.00,1.000,,,N,,
+hyper-x-16gb-ram-ddr4-2666mhz,10924,,,,,,5B4RS-3B3IY0-2CW71,,,,,1600.00,,,,,,,0.00,Y,2799.00,1.000,,,N,,
+hyper-x-8gb-ram-ddr4-2666mhz,10107,HYPER X 8GB RAM DDR4 2666MHZ,Ram,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,iidc,0.00,Y,variable,0.000,,,N,N,Y
+hyper-x-8gb-ram-ddr4-2666mhz,10112,,,,,,WS,,,,,0.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+hyperx-ddr4-4gb-ram,11542,HYPERX DDR4 4GB RAM,Ram,,N,,,,,,,0.00,,,,Y,,iidc,,Y,700.00,8.000,,,N,N,Y
+core-i5-8th-gen-processor-only,10160,I5 8400 INTEL PROCESSOR,Processor,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,manila,3806.89,Y,variable,2.000,1.000,,N,N,Y
+core-i5-8th-gen-processor-only,10225,,,,,,WS,,,,,4000.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+inplay-1080p-pro-full-hd-webcam-with-micropohne,11411,INPLAY 1080P PRO FULL HD WEBCAM WITH MICROPOHNE,CCTV & camera,,N,,,,,,,0.00,,,,Y,,,,Y,570.00,0.000,,,N,N,Y
+inplay-ak400-psu-rated-400w,10327,INPLAY AK400 PSU RATED 400W,"Power supply, AVR & UPS",,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,0.00,Y,590.00,38.000,,,N,N,Y
+inplay-ak400-psu-rated-400w,10420,,,,,,WS,,,,,0.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+inplay-aurora-one-exhaust-fan-rgb,10384,INPLAY AURORA ONE EXHAUST FAN RGB,Cpu fan & rgb fans,,N,,,,,,,0.00,,,,Y,,,,Y,300.00,4.000,,,N,N,Y
+inplay-gp200b,10261,INPLAY GP200C PSU,"Power supply, AVR & UPS",,N,,,,,,,0.00,,,,Y,,iidc,330.00,Y,430.00,29.000,,,N,Y,Y
+gp200l-longwire-psu,10078,INPLAY GP200L RATED LONGWIRE PSU,"Power supply, AVR & UPS",,N,,,,,,,350.00,,,,Y,,iidc,0.00,N,455.00,0.000,0.000,,N,Y,Y
+inplay-gs-550-ultra-rated-550-watts-80+bronze,10019,INPLAY GS550 ULTRA RATED 550 WATTS 80+ BRONZE,"Power supply, AVR & UPS",,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,805.00,Y,1350.00,13.000,,,N,N,Y
+inplay-gs-550-ultra-rated-550-watts-80+bronze,10816,,,,,,WS,,,,,0.00,,,,,,,805.00,Y,variable,0.000,,,N,,
+inplay-gs-550-ultra-series---ultra-rated-psu-(white),11003,INPLAY GS550 ULTRA SERIES - ULTRA RATED PSU (WHITE),"Power supply, AVR & UPS",,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,0.00,Y,1350.00,0.000,,,N,N,Y
+inplay-gs-550-ultra-series---ultra-rated-psu-(white),11004,,,,,,WS,,,,,0.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+inplay-gs650---ultra-rated-650w-power-supply-rgb-80+-bronze,10531,INPLAY GS650 ULTRA SERIES - ULTRA RATED PSU 80+ BRONZE,"Power supply, AVR & UPS",,N,description,DISCOUNT,,,,,0.00,,,,Y,,iidc,1005.00,Y,1650.00,3.000,,,N,Y,Y
+inplay-gs650---ultra-rated-650w-power-supply-rgb-80+-bronze,10651,,,,,,WS,,,,,0.00,,,,,,,1005.00,Y,variable,0.000,,,N,,
+inplay-gs750-ultra-rated-750-watts-psu-rgb-80+,10053,INPLAY GS750 ULTRA RATED WATTS PSU RGB 80+,"Power supply, AVR & UPS",,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,iidc,0.00,Y,2200.00,0.000,,,N,Y,Y
+inplay-gs750-ultra-rated-750-watts-psu-rgb-80+,10130,,,,,,WS,,,,,0.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+inplay-ice-one,10052,INPLAY ICE ONE RGB,Cpu fan & rgb fans,,N,,,,,,,0.00,,,,Y,,iidc,110.00,Y,235.00,30.000,,,N,Y,Y
+inplay-ice-tower-3in1-v2-fan,10127,INPLAY ICE TOWER 3IN1 V2 KIT RGB FAN,Cpu fan & rgb fans,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,iidc,480.00,Y,750.00,9.000,,,N,Y,Y
+inplay-ice-tower-3in1-v2-fan,10129,,,,,,WS,,,,,0.00,,,,,,,480.00,Y,variable,1.000,,,N,,
+inplay-kmt-1-black-single-arm-monitor-stand-mount-13-32-inch,10696,INPLAY KMT-1 BLACK SINGLE ARM MONITOR STAND MOUNT 13-32 INCH,Accessories,<p>inplay kmt-1 black single arm monitor stand mount 13-32 inch</p>,N,,,,,,,0.00,,,,Y,,iidc,602.00,Y,1200.00,2.000,1.000,,N,Y,Y
+inplay-m05-rgb-fan-120mm-4-pin-sata,10718,inplay m05 (White) rgb fan 120mm 4 pin sata,Cpu fan & rgb fans,,N,description,diiscount,,,,,54.39,,,,Y,,,0.00,Y,100.00,0.000,,,N,Y,Y
+inplay-m05-rgb-fan-120mm-4-pin-sata,10719,,,,,,ws,,,,,55.72,,,,,,,0.00,Y,variable,0.000,,,N,,
+inplay-nk970-dynamic-running-light-97-keys-gaming-kb,11115,INPLAY MECHANICAL NK970 DYNAMIC RUNNING LIGHT 97 KEYS GAMING KB,Keyboard & mouse,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,0.00,Y,1299.00,0.000,,,N,N,Y
+inplay-nk970-dynamic-running-light-97-keys-gaming-kb,11141,,,,,,WS,,,,,0.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+meteor-3-white,10313,INPLAY METEOR CASING BLACK & WHITE,Casing,,N,color,BLACK,,,,,0.00,,,,Y,,iidc,910.00,Y,1250.00,3.000,2.000,,N,Y,Y
+meteor-3-white,10599,,,,,,BLACK WS,,,,,0.00,,,,,,,0.00,Y,variable,1.000,,,N,,
+meteor-3-white,10229,,,,,,WHITE,,,,,0.00,,,,,,,955.00,Y,1399.00,1.000,2.000,,N,,
+meteor-3-white,10193,,,,,,WHITE WS,,,,,1150.00,,,,,,,0.00,Y,variable,1.000,,,N,,
+ms246-inplay-mini-speaker,10605,INPLAY MS-246 SPEAKER,Headset and Speaker,,N,description,DISCOUNT,,,,,0.00,,,,Y,,iidc,170.00,Y,250.00,7.000,5.000,,N,Y,Y
+ms246-inplay-mini-speaker,10606,,,,,,WS,,,,,0.00,,,,,,,170.00,Y,variable,0.000,,,N,,
+inplay-n33-laptop-coolling-pad-2-usb-rgb-fan,11820,INPLAY N33 LAPTOP COOLLING PAD 2 USB RGB FAN,Cpu fan & rgb fans,,N,,,,,,,0.00,,,,Y,,,,Y,355.00,0.000,,,N,N,Y
+inplay-noise-cancelling-headset-hn620-v2,10153,INPLAY NOISE CANCELLING HEADSET HN620 V2,Headset and Speaker,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,450.00,Y,529.00,0.000,,,N,N,Y
+inplay-noise-cancelling-headset-hn620-v2,10155,,,,,,WS,,,,,0.00,,,,,,,450.00,Y,variable,0.000,,,N,,
+inplay-rgb-led-bar,10054,INPLAY RGB LED BAR,Cpu fan & rgb fans,,N,,,,,,,0.00,,,,Y,,iidc,350.00,Y,538.00,3.000,0.000,,N,Y,Y
+razer-extended-mousepad,10232,INPLAY ROG EXTENDED MOUSEPAD,Accessories,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,iidc,80.00,Y,120.00,29.000,5.000,,N,Y,Y
+razer-extended-mousepad,10233,,,,,,WS,,,,,0.00,,,,,,,80.00,Y,variable,0.000,,,N,,
+cpu-cooler-tdp-95-watts-mini-tower-rgb-heatpipe-rf-p2,10133,INPLAY S20 CPU COOLER 100W HEATSINK,Cpu fan & rgb fans,,N,,,,,,,0.00,,,,Y,,iidc,180.00,Y,350.00,5.000,15.000,,N,Y,Y
+inplay-s500-wired-rgb-gaming-headset-with-mic,11767,INPLAY S500 WIRED RGB GAMING HEADSET WITH MIC,Headset and Speaker,,N,,,,,,,0.00,,,,Y,,,,Y,230.00,0.000,,,N,N,Y
+inplay-seaview-pavillion-matx-case-black,10248,INPLAY SEAVIEW PAVILLION MATX CASE BLACK,Casing,,N,,,,,,,0.00,,,,Y,,iidc,1350.00,Y,1545.00,0.000,3.000,,N,Y,Y
+inplay-seaview-pavillion-matx-case-white,10315,INPLAY SEAVIEW PAVILLION MATX CASE WHITE,Casing,,N,,,,,,,0.00,,,,Y,,iidc,1440.00,Y,1880.00,0.000,3.000,,N,Y,Y
+inplay-seaview-tower-x3-w-3n1-argb-fan-kit,10569,INPLAY SEAVIEW TOWER 3 IN 1 ARGB FAN KIT,Cpu fan & rgb fans,<p>inplay seaview tower x3-w 3n1 argb fan kit</p>,N,color,BLACK,,,,,583.54,,,,Y,,iidc,0.00,Y,790.00,0.000,,,N,Y,Y
+inplay-seaview-tower-x3-w-3n1-argb-fan-kit,10567,,,,,,WHITE,,,,,603.66,,,,,,,0.00,Y,810.00,0.000,,,N,,
+inplay-sk610-rgb-light-61-keys-wireless-tri-mode-mechanical-kb,10068,INPLAY SK610 RGB LIGHT 61 KEYS WIRELESS TRI-MODE MECHANICAL KB,Keyboard & mouse,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,0.00,Y,variable,0.000,,,N,N,Y
+inplay-sk610-rgb-light-61-keys-wireless-tri-mode-mechanical-kb,10070,,,,,,WS,,,,,0.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+inplay-sk960---gw-wireless-mechanical-keyboard-bluetooth,10305,Inplay sk960 - GW wireless mechanical keyboard bluetooth,Keyboard & mouse,,N,,,,,,,1190.00,,,,Y,,iidc,0.00,Y,1699.00,1.000,2.000,,N,Y,Y
+small-mousepad,10037,INPLAY SMALL MOUSEPAD BLACK,Accessories,,N,,,,,,,0.00,,,,Y,,iidc,10.00,Y,30.00,83.000,5.000,,N,Y,Y
+inplay-small-mousepad-(white)-250x210mm,11623,INPLAY SMALL MOUSEPAD WHITE,Accessories,,N,,,,,,,0.00,,,,Y,,,15.00,Y,30.00,10.000,,,N,N,Y
+sound-bar-speaker,10568,INPLAY SOUND BAR SPEAKER BS-100 BLACK & WHITE,Headset and Speaker,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,iidc,560.00,Y,750.00,5.000,1.000,,N,Y,Y
+sound-bar-speaker,10100,,,,,,WS,,,,,0.00,,,,,,,560.00,Y,variable,0.000,,,N,,
+stx-200,10409,INPLAY STX200 BUNDLE RGB,Keyboard & mouse,,N,size,BUNDLE,,,,,0.00,,,,Y,,iidc,150.00,Y,279.00,13.000,10.000,,N,Y,Y
+stx-360,11105,INPLAY STX360 BUNDLE RGB,Keyboard & mouse,,N,description,bundle,,,,,0.00,,,,Y,,iidc,245.00,Y,300.00,39.000,20.000,,N,Y,Y
+inplay-stx365-keyboard-mouse-bundle,11773,INPLAY STX365 BUNDLE RGB,Keyboard & mouse,,N,,,,,,,0.00,,,,Y,,,295.00,Y,350.00,42.000,,,N,N,Y
+inplay-stx-b180-wireless-keyboard-mouse-bundle,10812,INPLAY STXB18W BLUETOOTH WIRELESS KEYBOARD AND MOUSE,Keyboard & mouse,,N,specification,WHITE,,,,,0.00,,,,Y,,iidc,450.00,Y,750.00,2.000,,,N,N,Y
+gaming-table,10002,INPLAY T2 GAMING TABLE,Accessories,,N,,,,,,,0.00,,,,Y,,iidc,3850.00,Y,5499.00,1.000,1.000,,N,Y,Y
+inplay-thunder-pc-case-build-in-6-argb-fan-casing,11757,INPLAY THUNDER PC CASE BUILD-IN 6 ARGB FAN CASING,Casing,,N,,,,,,,0.00,,,,Y,,,,Y,variable,1.000,,,N,N,Y
+inplay-ups-1000va,10406,INPLAY UPS 1000VA,"Power supply, AVR & UPS",,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,0.00,Y,2650.00,0.000,,,N,N,Y
+inplay-ups-1000va,10437,,,,,,WS,,,,,0.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+inplay-ups-650va,10959,INPLAY UPS 650VA,"Power supply, AVR & UPS",,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,1190.00,Y,1685.00,3.000,,,N,N,Y
+inplay-ups-650va,10960,,,,,,WS,,,,,0.00,,,,,,,1190.00,Y,variable,0.000,,,N,,
+inplay-openview-v100-pc-case-white-matx,10400,INPLAY V100 CASING BLACK & WHITE,Casing,,N,color,BLACK,,,,,0.00,,,,Y,,iidc,845.00,Y,1399.00,6.000,2.000,,N,Y,Y
+inplay-openview-v100-pc-case-white-matx,10399,,,,,,WHITE,,,,,0.00,,,,,,,840.00,Y,1499.00,4.000,2.000,,N,,
+inplay-openview-pc-case-v200,10564,INPLAY V200 OPENVIEW,Casing,,N,description,BLACK V200,,,,,990.00,,,,Y,,,0.00,Y,1460.00,0.000,,,N,Y,Y
+inplay-openview-pc-case-v200,10451,,,,,,WHITE V200,,,,,1090.00,,,,,,,0.00,Y,1490.00,0.000,,,N,,
+wind-01-pc-case-inplay,10149,INPLAY WIND 01 CASING,Casing,,N,,,,,,,523.21,,,,Y,,iidc,0.00,Y,830.00,0.000,,,N,Y,Y
+intel-core-i3---9100f-brand-new,11772,INTEL CORE I3 - 9100F,Processor,,N,description,discount,,,,,0.00,,,,Y,,,4300.00,Y,5600.00,1.000,,,N,N,Y
+intel-core-i3---9100f-brand-new,12103,,,,,,ws,,,,,0.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+intel-core-i3---9400f-brand-new,11698,INTEL CORE I3 - 9400F BRAND NEW,Processor,,N,description,discount,,,,,0.00,,,,Y,,ting2 intino,2200.00,Y,5700.00,1.000,,,N,N,Y
+intel-core-i3---9400f-brand-new,11699,,,,,,ws,,,,,0.00,,,,,,,2200.00,Y,variable,1.000,,,N,,
+core-i3-10105,10734,INTEL CORE I3 10105,Processor,,N,Description,Discount,,,,,4771.04,,,,Y,,iidc,0.00,Y,6000.00,0.000,,,N,Y,Y
+core-i3-10105,10735,,,,,,Ws,,,,,4771.04,,,,,,,0.00,Y,variable,0.000,,,N,,
+intel-core-i5---10400f-brand-new,11700,INTEL CORE I5 - 10400F BRAND NEW,Processor,,N,description,discount,,,,,0.00,,,,Y,,ting2 intino,6600.00,Y,8100.00,7.000,,,N,N,Y
+intel-core-i5---10400f-brand-new,11701,,,,,,ws,,,,,0.00,,,,,,,6600.00,Y,variable,1.000,,,N,,
+intel-core-i5---9400f-brand-new,11696,INTEL CORE I5 - 9400F BRAND NEW,Processor,,N,description,discount,,,,,0.00,,,,Y,,ting2 intino,3850.00,Y,5350.00,3.000,,,N,N,Y
+intel-core-i5---9400f-brand-new,11697,,,,,,ws,,,,,0.00,,,,,,,3850.00,Y,variable,2.000,,,N,,
+intel-core-i5-12th-gen,10026,INTEL CORE i5- 12400 / 12TH GEN.,Processor,,N,serial #,X410H013,,,,,7000.00,,,,Y,,iidc,0.00,Y,variable,0.000,,,N,Y,Y
+intel-core-i5-12th-gen,100272,,,,,,X429M896,,,,,7000.00,,,,,,,0.00,Y,8500.00,0.000,,,N,,
+intel-core-i5-12th-gen,11799,,,,,,X516L777,,,,,0.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+intel-core-i5-12th-gen,11798,,,,,,X520L653,,,,,0.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+intel-core-i5-3th-gen-processor,10143,INTEL CORE I5-3TH GEN PROCESSOR,Processor,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,300.00,Y,1500.00,5.000,,,N,N,Y
+intel-core-i5-3th-gen-processor,10145,,,,,,WS,,,,,0.00,,,,,,,300.00,Y,variable,1.000,,,N,,
+intel-core-i5-4th-gen-processor,10146,INTEL CORE I5-4TH GEN PROCESSOR,Processor,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,450.00,Y,1900.00,12.000,,,N,N,Y
+intel-core-i5-4th-gen-processor,10147,,,,,,WS,,,,,0.00,,,,,,,450.00,Y,variable,1.000,,,N,,
+intel-core-i7---9700f-brand-new,11694,INTEL CORE I7 - 9700F BRAND NEW,Processor,,N,description,discount,,,,,0.00,,,,Y,,ting2 intino,5500.00,Y,9000.00,0.000,,,N,N,Y
+intel-core-i7---9700f-brand-new,11695,,,,,,ws,,,,,0.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+intel-cooler-12gen,10048,Intel cpu fan cooler 12th gen original,Cpu fan & rgb fans,,N,,,,,,,300.00,,,,Y,,iidc,0.00,Y,449.00,0.000,2.000,,N,Y,Y
+intel-fan-stock,10509,INTEL CPU STOCK FAN,Cpu fan & rgb fans,,N,DESCRIPTION,DISCOUNT,,,,,90.93,,,,Y,,manila,0.00,Y,249.00,0.000,1.000,,N,Y,Y
+intel-fan-stock,10705,,,,,,WS,,,,,90.93,,,,,,,0.00,Y,variable,0.000,,,N,,
+intel-h81-msi-motherboard,10251,INTEL H81 MSI MOTHERBOARD,Motherboard,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,1000.00,Y,1800.00,10.000,,,N,N,Y
+intel-h81-msi-motherboard,10254,,,,,,WS,,,,,0.00,,,,,,,1000.00,Y,variable,0.000,,,N,,
+intel-i5---9400g-processor,10187,INTEL I5 - 9400G PROCESSOR,Processor,,N,,,,,,,0.00,,,,Y,,,,Y,variable,0.000,,,N,N,Y
+intel-i5-2nd-gen-processor,10159,INTEL I5-2ND GEN PROCESSOR,Processor,,N,,,,,,,0.00,,,,Y,,,,Y,variable,0.000,,,N,N,Y
+intel-pentium-g450,11807,INTEL PENTIUM G450,Processor,,N,description,discount,,,,,0.00,,,,Y,,,799.00,Y,variable,7.000,,,N,N,Y
+intel-pentium-g450,11808,,,,,,ws,,,,,0.00,,,,,,,799.00,Y,variable,0.000,,,N,,
+cr-1400-jonsbo-design-cpu-fan,10022,Jonsbo CR 1400 CPU Cooler 4 Heatpipes PWM 3 Pin,Accessories,,N,,,,,,,890.91,,,,Y,,iidc,0.00,Y,1299.00,0.000,2.000,,N,Y,Y
+jonsbo-cr1200-cpu-cooler-heatsink-4-heatpipes-3pin-cooling-fan,10474,Jonsbo CR1200 CPU Cooler Heatsink 4 Heatpipes 3Pin Cooling Fan,Accessories,,N,,,,,,,579.09,,,,Y,,manila,0.00,Y,1099.00,0.000,2.000,,N,Y,Y
+judivone-cctv-4ch-package-full-colored-w/-audio,10668,judivone cctv 4ch package full colored w/ audio,composite items,,N,,,,,,,,,10398,1.000,N,N,,,Y,15000.00,,,,N,Y,Y
+jungle-leopard-kf40-argb-heatsink-black-&-white,10314,JUNGLE LEOPARD KF40 ARGB HEATSINK BLACK & WHITE,Cpu fan & rgb fans,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,860.00,Y,1350.00,1.000,1.000,,N,N,Y
+jungle-leopard-kf40-argb-heatsink-black-&-white,10525,,,,,,WS,,,,,0.00,,,,,,,860.00,Y,variable,0.000,,,N,,
+l-spacer,10484,L SPACER,Accessories,,N,sold by,pack/100pcs,,,,,0.00,,,,Y,,iidc,150.00,Y,350.00,0.000,2.000,,N,Y,Y
+l-spacer,10168,,,,,,piece,,,,,0.00,,,,,,,1.00,Y,5.00,0.000,50.000,,N,,
+lan-coupler,10222,LAN Coupler,Network Accessories,,N,,,,,,,30.00,,,,N,,,,Y,65.00,,,,N,N,Y
+laptop-stands,10056,LAPTOP STAND,Accessories,,N,,,,,,,0.00,,,,Y,,manila,150.00,Y,350.00,1.000,3.000,,N,Y,Y
+lb-link-2in1-wifi-adaptor-+bluetooth-dongle,10171,LB-LINK 2IN1 WIFI ADAPTOR +BLUETOOTH DONGLE,converter cables & others,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,295.00,Y,650.00,12.000,,,N,N,Y
+lb-link-2in1-wifi-adaptor-+bluetooth-dongle,10191,,,,,,WS,,,,,0.00,,,,,,,295.00,Y,variable,0.000,,,N,,
+rgb-lights-coinslot,10051,LED FRAME RGB COINSLOT,Vendo & pisonet parts Accessories,,N,,,,,,,0.00,,,,Y,,iidc,75.00,Y,168.00,13.000,5.000,,N,Y,Y
+lenovo-micro-sd-16gb-100mbps,11578,LENOVO MICRO SD 16GB 100MBPS,Ssd & storage,,N,description,discount,,,,,0.00,,,,Y,,,0.00,Y,255.00,5.000,,,N,N,Y
+lenovo-micro-sd-16gb-100mbps,11579,,,,,,ws,,,,,0.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+license--vendo-one-click-system-less-50-for-builder,000001,LICENSE VENDO ONE CLICK SYSTEM LESS 50 FOR BUILDER,Vendo & pisonet parts Accessories,<p>License &nbsp;vendo one click system less 50 for builder</p>,N,,,,,,,300.00,,,,Y,,iidc,0.00,Y,variable,9.000,7.000,,N,Y,Y
+lite-beam-ac-gen.2,10784,LITE BEAM AC GEN.2,Network Accessories,,N,,,,,,,3900.00,,,,Y,,,0.00,Y,variable,2.000,0.000,,N,N,Y
+lite-x10-casing-w/-gp200b-psu,12101,LITE X10 CASING W/ GP200B PSU,Casing,,N,description,discount,,,,,0.00,,,,Y,,,0.00,Y,950.00,0.000,,,N,N,Y
+lite-x10-casing-w/-gp200b-psu,12102,,,,,,ws,,,,,0.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+lite-x220-black-casing-with-2-rgb-fans,10063,LITE X220 BLACK CASING WITH 2 RGB FANS,Casing,,N,description,DISCOUNT,,,,,0.00,,,,Y,,,500.00,Y,680.00,6.000,1.000,,N,N,Y
+lite-x220-black-casing-with-2-rgb-fans,12218,,,,,,WS,,,,,0.00,,,,,,,500.00,Y,variable,0.000,,,N,,
+livey-stereo-headset-noise-cancelling-lt-410du,10271,LIVEY STEREO HEADSET NOISE CANCELLING LT-410DU,Headset and Speaker,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,950.00,Y,1350.00,5.000,,,N,N,Y
+livey-stereo-headset-noise-cancelling-lt-410du,10272,,,,,,WS,,,,,0.00,,,,,,,950.00,Y,variable,0.000,,,N,,
+m.2-256gb-hkc-shadowing,10036,M.2 256GB HKC SHADOWING,Ssd & storage,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,0.00,Y,variable,1.000,,,N,N,Y
+m.2-256gb-hkc-shadowing,10038,,,,,,WS,,,,,0.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+m.2-case-external-enclousure,10123,M.2 CASE EXTERNAL ENCLOUSURE,Ssd & storage,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,370.00,Y,560.00,3.000,,,N,N,Y
+m.2-case-external-enclousure,10312,,,,,,WS,,,,,0.00,,,,,,,370.00,Y,variable,1.000,,,N,,
+m.2-ramsta-128gb-ssd-r600,10020,M.2 RAMSTA 128GB SSD R600,Ssd & storage,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,iidc,0.00,Y,1190.00,0.000,,,N,N,Y
+m.2-ramsta-128gb-ssd-r600,10021,,,,,,WS,,,,,0.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+m05-ting-rgb-fans,10648,"M05 RGB EXHAUST FAN BLACK,",Cpu fan & rgb fans,,N,,,,,,,8.02,,,,Y,,ting2 intino,0.00,Y,120.00,17.000,5.000,,N,Y,Y
+regular-male-plug-240-volts,10379,MALE PLUG,Vendo & pisonet parts Accessories,,N,,,,,,,0.00,,,,Y,,kenwell,15.00,Y,25.00,40.000,5.000,,N,Y,Y
+micropack-k-2003-office-lite-classic-keyboard-bunlde,10125,MICROPACK K-2003 OFFICE LITE CLASSIC KEYBOARD BUNLDE,Keyboard & mouse,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,360.00,Y,550.00,20.000,,,N,N,Y
+micropack-k-2003-office-lite-classic-keyboard-bunlde,10144,,,,,,WS,,,,,0.00,,,,,,,360.00,Y,variable,0.000,,,N,,
+micropack-km-2005-classic-wired-keyboard-bundle,10096,MICROPACK KM-2005 CLASSIC WIRED KEYBOARD BUNDLE,Keyboard & mouse,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,360.00,Y,550.00,12.000,,,N,N,Y
+micropack-km-2005-classic-wired-keyboard-bundle,10109,,,,,,WS,,,,,0.00,,,,,,,360.00,Y,variable,0.000,,,N,,
+mini-jst-wire,10301,MINI JST WIRE,Vendo & pisonet parts Accessories,,N,,,,,,,2.50,,,,Y,,,0.00,Y,5.00,19.000,15.000,,N,Y,Y
+mini-keyboard-black,10157,MINI KEYBOARD K-100,Keyboard & mouse,,N,,,,,,,0.00,,,,Y,,iidc,190.00,Y,390.00,1.000,3.000,,N,Y,Y
+black-mouse-generic,10005,MLANG MOUSE OFFICE BUSINESS,Keyboard & mouse,,N,,,,,,,0.00,,,,Y,,ting2 intino,55.00,Y,95.00,4.000,5.000,,N,Y,Y
+mloong-tri-mode-gaming-mouse-wireless,11113,MLOONG TRI-MODE GAMING MOUSE WIRELESS,Keyboard & mouse,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,480.00,Y,790.00,1.000,1.000,,N,N,Y
+mloong-tri-mode-gaming-mouse-wireless,11114,,,,,,WS,,,,,0.00,,,,,,,480.00,Y,variable,0.000,,,N,,
+ms001-speaker,10814,MS001 SPEAKER,Headset and Speaker,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,iidc,120.00,Y,175.00,1.000,,,N,Y,Y
+ms001-speaker,10815,,,,,,WS,,,,,0.00,,,,,,,120.00,Y,variable,0.000,,,N,,
+msi-a520m-a-pro,10711,MSI A520M-A PRO,Motherboard,,N,601-7C96-120B240403,discount,,,,,0.00,7091,,,Y,,iidc,2900.00,Y,3900.00,8.000,,,N,N,N
+msi-a520m-a-pro,10911,,,,,,ws,,,,,0.00,,,,,,,2900.00,Y,variable,0.000,,,N,,
+msi-b450m--a-pro-max-ii-motherboard,10032,MSI B450M- A PRO MAX II MOTHERBOARD,Motherboard,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,2900.00,Y,3900.00,3.000,,,N,N,Y
+msi-b450m--a-pro-max-ii-motherboard,10475,,,,,,WS,,,,,0.00,,,,,,,2900.00,Y,variable,0.000,,,N,,
+msi-b650m-gaming-wifi-ddr5-motherboard,10064,MSI B650M GAMING WIFI DDR5 MOTHERBOARD,Motherboard,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,0.00,Y,variable,0.000,,,N,N,Y
+msi-b650m-gaming-wifi-ddr5-motherboard,10066,,,,,,WS,,,,,0.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+msi-pro-h610m-e-ddr4-motherboard,10259,MSI PRO H610M-E DDR4 MOTHERBOARD,Motherboard,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,2500.00,Y,3500.00,3.000,,,N,N,Y
+msi-pro-h610m-e-ddr4-motherboard,10260,,,,,,WS,,,,,0.00,,,,,,,2500.00,Y,variable,0.000,,,N,,
+n-vision-19-inches-n190v8-led-monitor,10227,N-VISION 19 INCHES N190V8 LED MONITOR,Monitors & TV,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,iidc,0.00,Y,variable,0.000,,,N,Y,Y
+n-vision-19-inches-n190v8-led-monitor,10246,,,,,,WS,,,,,0.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+n-vision-20-inches-n200v8-led-monitor,10093,N-VISION 20 INCHES N200V8 LED MONITOR,Monitors & TV,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,iidc,1530.00,Y,1980.00,15.000,,,N,N,Y
+n-vision-20-inches-n200v8-led-monitor,10192,,,,,,WS,,,,,0.00,,,,,,,1530.00,Y,variable,0.000,,,N,,
+n-vision-22-inches-ip22v3-75hz-led-monitor,10479,N-VISION 22 INCHES 100HZ IPS MONITOR,Monitors & TV,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,iidc,2750.00,Y,3850.00,8.000,1.000,,N,N,Y
+n-vision-22-inches-ip22v3-75hz-led-monitor,10956,,,,,,WS,,,,,0.00,,,,,,,2750.00,Y,variable,0.000,,,N,,
+240hz-n-vision-24-inches-eg24xt-b-gaming-ips-monitor,10204,N-VISION 24 INCHES 240HZ EG24XT-B GAMING IPS MONITOR,Monitors & TV,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,4500.00,Y,6900.00,1.000,,,N,N,Y
+240hz-n-vision-24-inches-eg24xt-b-gaming-ips-monitor,10218,,,,,,WS,,,,,0.00,,,,,,,4500.00,Y,variable,0.000,,,N,,
+n-vision-24-inches-n2455-pro-100hz-led-monitor-(black),10177,N-VISION 24 INCHES N2455 PRO 100HZ LED MONITOR (BLACK),Monitors & TV,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,iidc,3175.00,Y,4400.00,14.000,,,N,Y,Y
+n-vision-24-inches-n2455-pro-100hz-led-monitor-(black),10178,,,,,,WS,,,,,0.00,,,,,,,3175.00,Y,variable,1.000,,,N,,
+n-vision-25-inches-n2510-100hz-black-led-monitor,10110,N-VISION 25 INCHES N2510 100HZ BLACK LED MONITOR,Big Letter,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,0.00,Y,variable,0.000,,,N,N,Y
+n-vision-25-inches-n2510-100hz-black-led-monitor,10126,,,,,,WS,,,,,0.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+n-vision-27-inches-n2755-75hz-led-monitor,10151,N-VISION 27 INCHES 100HZ GAMING MONITOR,Monitors & TV,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,iidc,0.00,Y,variable,0.000,,,N,N,Y
+n-vision-27-inches-n2755-75hz-led-monitor,10152,,,,,,WS,,,,,0.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+n-vision-32-inches-smart-tv-led-android,10156,N-VISION 32 INCHES SMART-TV LED ANDROID,Monitors & TV,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,iidc,4650.00,Y,6700.00,4.000,,,N,N,Y
+n-vision-32-inches-smart-tv-led-android,11002,,,,,,WS,,,,,0.00,,,,,,,4650.00,Y,variable,0.000,,,N,,
+n-vision-34-inches-ultra-wide-165hz-gaming-monitor,10447,N-VISION 34 INCHES ULTRA WIDE 165HZ GAMING MONITOR,Monitors & TV,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,9050.00,Y,15999.00,1.000,,,N,N,Y
+n-vision-34-inches-ultra-wide-165hz-gaming-monitor,10540,,,,,,WS,,,,,0.00,,,,,,,9050.00,Y,variable,0.000,,,N,,
+40-inches-nvision-s40md-hd-smart-tv,10211,N-VISION 43 INCHES SMART-TV LED ANDROID,Monitors & TV,,N,DESCRIPTION,DISCOUNT,,,,,8513.40,,,,Y,,iidc,0.00,Y,12000.00,3.000,1.000,,N,Y,Y
+40-inches-nvision-s40md-hd-smart-tv,10458,,,,,,WS,,,,,8513.40,,,,,,,0.00,Y,variable,0.000,,,N,,
+n-vision-remote-smart-tv,11804,N-VISION REMOTE SMART TV,Monitors & TV,,N,,,,,,,0.00,,,,Y,,,150.00,Y,250.00,4.000,,,N,N,Y
+netis--st108gd-safety-lock----8-ports-metal-gigabit-switch,11147,NETIS  ST108GD SAFETY LOCK -  8 PORTS METAL GIGABIT SWITCH,Network Accessories,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,iidc,0.00,Y,950.00,1.000,1.000,,N,N,Y
+netis--st108gd-safety-lock----8-ports-metal-gigabit-switch,11148,,,,,,WS,,,,,0.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+netis-8-ports-poe-fast-ethernet-p210em,10220,NETIS 8 PORTS POE FAST ETHERNET P210EM,CCTV & camera,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,2000.00,Y,3650.00,2.000,,,N,N,Y
+netis-8-ports-poe-fast-ethernet-p210em,10221,,,,,,WS,,,,,0.00,,,,,,,2000.00,Y,variable,0.000,,,N,,
+netlink-media-converter-(100-mbps),11608,NETLINK MEDIA CONVERTER (100 MBPS),Network Accessories,,N,description,DISCOUNT,,,,,0.00,,,,Y,,,365.00,Y,590.00,10.000,1.000,,N,N,Y
+netlink-media-converter-(100-mbps),11609,,,,,,WS,,,,,0.00,,,,,,,365.00,Y,variable,0.000,,,N,,
+netlink-media-converter-(1000-mbps),11143,NETLINK MEDIA CONVERTER (1000 MBPS),Network Accessories,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,475.00,Y,690.00,15.000,1.000,,N,N,Y
+netlink-media-converter-(1000-mbps),11144,,,,,,WS,,,,,0.00,,,,,,,475.00,Y,variable,0.000,,,N,,
+nvision-24-inches-eg24s1-pro-180hz-gaming-flat-monitor-1,11749,NVISION 24 INCHES EG24S1 PRO 180HZ GAMING FLAT MONITOR,Monitors & TV,,N,description,EG240BBEJHP240462974,,,,,0.00,,,,Y,,,0.00,Y,variable,0.000,,,N,N,Y
+nvision-24-inches-eg24s1-pro-180hz-gaming-flat-monitor,11131,NVISION 24 INCHES EG24S1 PRO 200HZ GAMING FLAT MONITOR,Monitors & TV,,N,serial #,EG240BHKJP2503300313,,,,,0.00,,,,Y,,iidc,0.00,Y,variable,0.000,,,N,N,Y
+nvision-24-inches-eg24s1-pro-180hz-gaming-flat-monitor,11207,,,,,,EG240BHKJP2503600046,,,,,0.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+nvision-24-inches-eg24s1-pro-180hz-gaming-flat-monitor,11709,,,,,,EG240BHKJP2503600048,,,,,0.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+nvision-24-inches-eg24s1-pro-180hz-gaming-flat-monitor,11708,,,,,,EG240BHKJP2503600053,,,,,0.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+nvision-24-inches-eg24s1-pro-180hz-gaming-flat-monitor,10800,,,,,,EG240BHKJP2503600132,,,,,0.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+nvision-dahua-19-inches-n1901id-va-led-monitor,10258,NVISION DAHUA 19 INCHES N1901ID-VA LED MONITOR,Monitors & TV,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,0.00,Y,variable,1.000,,,N,N,Y
+nvision-dahua-19-inches-n1901id-va-led-monitor,10275,,,,,,WS,,,,,0.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+omnia-24-inches-0238ciu-100hz-led-monitor,10077,OMNIA 24 INCHES 0238CIU 100HZ LED MONITOR,Monitors & TV,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,3175.00,Y,4400.00,9.000,2.000,,N,N,Y
+omnia-24-inches-0238ciu-100hz-led-monitor,10082,,,,,,WS,,,,,0.00,,,,,,,3175.00,Y,variable,0.000,,,N,,
+orange-pi-one-board-vendo,10094,ORANGE PI ONE BOARD WIFI VENDO,Vendo & pisonet parts Accessories,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,iidc,1145.00,Y,1380.00,9.000,5.000,,N,Y,Y
+orange-pi-one-board-vendo,10984,,,,,,WS,,,,,0.00,,,,,,,1145.00,Y,variable,0.000,,,N,,
+orico-enclosure-2520u3-3.0,11582,ORICO ENCLOSURE 2520U3 3.0,Accessories,,N,description,discount,,,,,0.00,,,,Y,,,295.00,Y,395.00,1.000,,,N,N,Y
+orico-enclosure-2520u3-3.0,11583,,,,,,ws,,,,,0.00,,,,,,,295.00,Y,variable,0.000,,,N,,
+outlet-comlink-3-gang,10607,OUTLET 3 GANG COMLINK,Vendo & pisonet parts Accessories,,N,description,DISCOUNT,,,,,0.00,,,,Y,,,25.00,Y,50.00,17.000,,,N,Y,Y
+outlet-comlink-3-gang,10611,,,,,,WS,,,,,0.00,,,,,,,25.00,Y,variable,0.000,,,N,,
+pc-cooler-frgb-3in1-kit-corona-120mm-pwm-fan,10345,PC COOLER FRGB 3IN1 KIT CORONA 1200MM PWM FAN,Cpu fan & rgb fans,,N,,,,,,,1850.00,,,,Y,,iidc,0.00,Y,2528.00,1.000,1.000,,N,Y,Y
+pc-cooler-frgb-3in1-kit-halo,10344,PC COOLER FRGB 3IN1 KIT HALO,Cpu fan & rgb fans,,N,,,,,,,1599.00,,,,Y,,iidc,0.00,Y,1869.00,4.000,2.000,,N,Y,Y
+pegatron-1150-socket-4th-gen-motherboard-3d-warranty,10172,PEGATRON 1150 SOCKET 4TH GEN MOTHERBOARD 3 DAYS WARRANTY,Motherboard,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,manila,1175.00,Y,variable,0.000,,,N,N,Y
+pegatron-1150-socket-4th-gen-motherboard-3d-warranty,10173,,,,,,WS,,,,,0.00,,,,,,,1175.00,Y,variable,0.000,,,N,,
+dvi-to-vga-best-seller,10158,PHILIPS DVI TO VGA,Cables & wirings,,N,description,DISCOUNT,,,,,0.00,,,,Y,,manila,150.00,Y,320.00,10.000,,,N,Y,Y
+dvi-to-vga-best-seller,11590,,,,,,WS,,,,,0.00,,,,,,,150.00,Y,variable,1.000,,,N,,
+philips-usb-metal-16gb-3.2,11574,PHILIPS USB METAL 16GB 3.2,Accessories,,N,description,discount,,,,,150.00,,,,Y,,,0.00,Y,295.00,2.000,,,N,N,Y
+philips-usb-metal-16gb-3.2,11575,,,,,,ws,,,,,0.00,,,,,,,0.00,Y,variable,1.000,,,N,,
+philips-usb-metal-32gb-3.2,11576,PHILIPS USB METAL 32GB 3.2,Accessories,,N,description,discount,,,,,0.00,,,,Y,,,0.00,Y,395.00,0.000,,,N,N,Y
+philips-usb-metal-32gb-3.2,11577,,,,,,ws,,,,,0.00,,,,,,,0.00,Y,variable,1.000,,,N,,
+power-cords,10092,POWER CHORD,computer parts,,N,,,,,,,0.00,,,,Y,,iidc,25.00,Y,55.00,24.000,5.000,,N,Y,Y
+600-watts-tru-rated-psu-deep-cool-psu-de600-v2,10042,POWEREX ASSORTED PSU 600W TRUE RATED,"Power supply, AVR & UPS",,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,kenwell,600.00,Y,950.00,17.000,,,N,Y,Y
+600-watts-tru-rated-psu-deep-cool-psu-de600-v2,10043,,,,,,WS,,,,,0.00,,,,,,,600.00,Y,variable,4.000,,,N,,
+ramsta-full-modular-1000w-psu,10481,RAMSTA FULL MODULAR 1000W PSU,"Power supply, AVR & UPS",,N,description,RG10002308000135,,,,,0.00,,,,Y,,,0.00,Y,4999.00,1.000,,,N,N,Y
+ramsta-full-modular-1000w-surplus,10003,RAMSTA FULL MODULAR 1000W SURPLUS,"Power supply, AVR & UPS",,N,,,,,,,0.00,,,,Y,,,,Y,2600.00,0.000,,,N,N,Y
+ramsta-full-modular-650w-psu,10729,RAMSTA FULL MODULAR 650W PSU,"Power supply, AVR & UPS",,N,serial #,RB650Z2311000921,,,,,1405.00,,,,Y,,iidc,0.00,Y,1900.00,1.000,,,N,N,Y
+ramsta-full-modular-650w-psu,11674,,,,,,RB650Z2312000089,,,,,0.00,,,,,,,0.00,Y,variable,1.000,,,N,,
+ramsta-full-modular-650w-psu,10730,,,,,,RB650Z2312000096,,,,,1405.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+ramsta-full-modular-650w-psu,11703,,,,,,RB650Z2312000099,,,,,0.00,,,,,,,0.00,Y,variable,1.000,,,N,,
+ramsta-full-modular-650w-psu,11554,,,,,,RB650Z2312000100,,,,,0.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+ramsta-rs---a320-mph-bnew,10688,RAMSTA RS - A320 MPH BNEW,Motherboard,,N,serial #,RS-A320MP 24091342,,,,,2085.25,,,,Y,,iidc,0.00,Y,3600.00,0.000,,,N,Y,Y
+ramsta-rs---a320-mph-bnew,11337,,,,,,RS-A320MP 24091354,,,,,0.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+ramsta-rs---a320-mph-bnew,11336,,,,,,RS-A320MP 24091355,,,,,0.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+ramsta-rs---a320-mph-bnew,11335,,,,,,RS-A320MP 25042281,,,,,0.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+ramsta-rs---a320-mph-bnew,11334,,,,,,RS-A320MP 25042282,,,,,0.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+ramsta-rs---a320-mph-bnew,11333,,,,,,RS-A320MP 25042284,,,,,0.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+ramsta-rs-b450mp,10164,RAMSTA RS-B450MP MOTHERBOARD,Motherboard,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,0.00,Y,variable,0.000,,,N,N,Y
+ramsta-rs-b450mp,10166,,,,,,WS,,,,,0.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+rapoo-vh160-backlit-gaming-headset-v1-1160,11146,RAPOO VH160 BACKLIT GAMING HEADSET V1-1160,Headset and Speaker,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,0.00,Y,1099.00,0.000,,,N,N,Y
+rapoo-vh160-backlit-gaming-headset-v1-1160,11149,,,,,,WS,,,,,0.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+rave-power-supply-true-rated,11758,RAVE POWER SUPPLY TRUE RATED,"Power supply, AVR & UPS",,N,,,,,,,0.00,,,,Y,,,,Y,1500.00,0.000,,,N,N,Y
+rgb-fan-3-in-1-surplus,10004,RGB FAN 3 IN 1 SURPLUS,Cpu fan & rgb fans,,N,,,,,,,0.00,,,,Y,,,,Y,250.00,0.000,,,N,N,Y
+lan-cable-tester,11618,RJ45 AND RJ11 LAN CABLE TESTER,Cables & wirings,,N,description,discount,,,,,0.00,,,,Y,,,0.00,Y,190.00,-1.000,,,N,N,Y
+lan-cable-tester,11619,,,,,,ws,,,,,0.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+rj45-pass-through,10469,RJ45 PLASTIC PASSTHROUGH,Cables & wirings,,N,sold by,1pack/100pcs,,,,,1.35,,,,Y,,iidc,0.00,Y,variable,6.000,,100.000,N,Y,Y
+rj45-pass-through,10097,,,,,,piece,,,,,0.18,,,,,,,0.00,Y,5.00,468.000,25.000,,N,,
+rs-b450-pro-ramsta,10914,RS-B450 PRO RAMSTA,Motherboard,,N,description,discount,,,,,0.00,,,,Y,,iidc,0.00,Y,variable,0.000,,,N,N,Y
+rs-b450-pro-ramsta,11705,,,,,,ws,,,,,0.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+rx6600-amd-gpu,10224,RX6600 AMD GPU,Graphics card,,N,,,,,,,12500.00,,,,Y,,,,Y,14000.00,0.000,,,N,N,Y
+amd-ryzen-3-1300x,10150,RYZEN 3 1300X AMD PROCESSOR,Processor,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,900.00,Y,variable,15.000,0.000,,N,N,Y
+amd-ryzen-3-1300x,10425,,,,,,WS,,,,,0.00,,,,,,,900.00,Y,variable,0.000,,,N,,
+adm-ryzen-3-3200g,10199,RYZEN 3 2200G PRO AMD PROCESSOR,Processor,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,1700.00,Y,2800.00,9.000,0.000,,N,N,Y
+adm-ryzen-3-3200g,10654,,,,,,WS,,,,,0.00,,,,,,,1700.00,Y,variable,0.000,,,N,,
+amd-ryzen-3-3200g,10788,RYZEN 3 3200G AMD PROCESSOR,Processor,,N,DESCRIPTION,DISCOUNT,,,,,2000.00,,,,Y,,,0.00,Y,5500.00,0.000,,,N,Y,Y
+amd-ryzen-3-3200g,10791,,,,,,WS,,,,,0.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+ryzen-5-2400g,10507,RYZEN 5 2400G AMD PROCESSOR,Processor,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,ting2 intino,2900.00,Y,5900.00,3.000,,,N,N,Y
+ryzen-5-2400g,10703,,,,,,WS,,,,,0.00,,,,,,,2900.00,Y,variable,0.000,,,N,,
+ryzen-5-5600gt-amd-processor,10737,RYZEN 5 5500GT AMD PROCESSOR,Processor,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,6615.00,Y,8900.00,0.000,,,N,N,Y
+ryzen-5-5600gt-amd-processor,10756,,,,,,WS,,,,,0.00,,,,,,,6615.00,Y,variable,0.000,,,N,,
+amd-ryzen-5-5600g,10263,RYZEN 5 5600G AMD PROCESSOR,Processor,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,4500.00,Y,8500.00,0.000,,,N,N,Y
+amd-ryzen-5-5600g,10284,,,,,,WS,,,,,0.00,,,,,,,4500.00,Y,variable,0.000,,,N,,
+ryzen-7-5700g,10757,RYZEN 7 5700G AMD PROCESSOR,Processor,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,iidc,0.00,Y,11500.00,0.000,,,N,N,Y
+ryzen-7-5700g,10541,,,,,,WS,,,,,0.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+ryzen-3-1300x-bundle-asus-a320-1,10810,RYZEN 7 5800X AMD PROCESSOR,Processor,,N,specification,DISCOUNT,,,,,0.00,,,,Y,,iidc,6845.41,Y,13600.00,1.000,,,N,N,N
+sata-cable,10079,SATA CABLE,computer parts,,N,,,,,,,0.00,,,,Y,,iidc,14.00,Y,30.00,71.000,,,N,N,Y
+sc/upc-fiber-optic-connector-butterfly,10213,SC/UPC FIBER OPTIC CONNECTOR BUTTERFLY,CCTV & camera,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,22.00,Y,60.00,30.000,,,N,N,Y
+sc/upc-fiber-optic-connector-butterfly,10216,,,,,,WS,,,,,0.00,,,,,,,22.00,Y,variable,0.000,,,N,,
+seagate-500g-hdd-furbished,10105,SEAGATE 500G HDD FURBISHED,Ssd & storage,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,ting2 intino,500.00,Y,550.00,5.000,,,N,N,Y
+seagate-500g-hdd-furbished,10163,,,,,,WS,,,,,0.00,,,,,,,500.00,Y,variable,0.000,,,N,,
+argb-seaview-240-cpu-cooler-radiator,10140,SEAVIEW 240PRO WHITE 150W AIO LIQUID COOLER,Cpu fan & rgb fans,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,iidc,2100.00,Y,3299.00,1.000,,,N,Y,Y
+argb-seaview-240-cpu-cooler-radiator,10979,,,,,,WS,,,,,0.00,,,,,,,2100.00,Y,variable,0.000,,,N,,
+"seaview-summer-black-three-glass,-atx",10136,"SEAVIEW SUMMER BLACK THREE GLASS, ATX",Casing,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,1800.00,Y,2850.00,6.000,,,N,N,Y
+"seaview-summer-black-three-glass,-atx",10137,,,,,,WS,,,,,0.00,,,,,,,1800.00,Y,variable,0.000,,,N,,
+secure-ups-1000va,10176,SECURE UPS 1000VA,"Power supply, AVR & UPS",,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,iidc,0.00,Y,variable,0.000,,,N,N,Y
+secure-ups-1000va,10179,,,,,,WS,,,,,0.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+secure-ups-1500va,10961,SECURE UPS 1500VA,"Power supply, AVR & UPS",,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,iidc,0.00,Y,3850.00,0.000,,,N,N,Y
+secure-ups-1500va,10962,,,,,,WS,,,,,0.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+secure-ups-650-a,10252,SECURE UPS 650VA,"Power supply, AVR & UPS",,N,description,310026736EB112900185,,,,,1378.00,,,,Y,,,0.00,Y,variable,0.000,,,N,N,Y
+secure-ups-650-a,10766,,,,,,31002673E34106302255,,,,,1378.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+secure-ups-650-a,11098,,,,,,31002673E85662603165,,,,,1377.71,,,,,,,0.00,Y,1850.00,0.000,,,N,,
+secure-ups-650-a,10942,,,,,,31002673E85662603167,,,,,1378.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+secure-ups-650-a,10763,,,,,,31002673E85662603168,,,,,1378.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+secure-ups-650-a,11099,,,,,,ws - sn,,,,,0.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+services,10716,SERVICES,computer parts,,N,,,,,,,0.00,,,,N,,,,Y,variable,,,,Y,N,Y
+skihotar-ram-8gb-ddr4-3200mhz,10180,SKIHOTAR RAM 8GB DDR4 3200MHZ,Ram,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,iidc,990.00,Y,variable,0.000,,,N,Y,Y
+skihotar-ram-8gb-ddr4-3200mhz,10182,,,,,,WS,,,,,0.00,,,,,,,990.00,Y,variable,0.000,,,N,,
+so-dimm-ramsta-m.2-16gb-ddr4-3200mhz,10183,SO-DIMM RAMSTA 16GB DDR4 3200MHZ,Ram,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,iidc,0.00,Y,variable,0.000,,,N,N,Y
+so-dimm-ramsta-m.2-16gb-ddr4-3200mhz,10184,,,,,,WS,,,,,0.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+so-dimm-ramsta-8gb-ddr4-2666mhz,10185,SO-DIMM RAMSTA 8GB DDR4 2666MHZ,Ram,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,0.00,Y,variable,0.000,,,N,N,Y
+so-dimm-ramsta-8gb-ddr4-2666mhz,10186,,,,,,WS,,,,,0.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+so-dimm-ramsta-8gb-ddr4-3200mhz,10929,SO-DIMM RAMSTA 8GB DDR4 3200MHZ,Ram,,N,serial #,RJX2460636E00013,,,,,1000.00,,,,Y,,iidc,0.00,Y,1370.00,1.000,,,N,N,Y
+so-dimm-skihotar-8gb-ddr4-3200mhz,10937,SO-DIMM SKIHOTAR 8GB DDR4 3200MHZ,Ram,,N,serial #,SKMHK233011Z0056,,,,,900.00,,,,Y,,iidc,0.00,Y,variable,0.000,,,N,N,Y
+so-dimm-skihotar-8gb-ddr4-3200mhz,10936,,,,,,SKMHK233011Z0247,,,,,900.00,,,,,,,0.00,Y,variable,1.000,,,N,,
+so-dimm-skihotar-8gb-ddr4-3200mhz,10938,,,,,,SKMHK233011Z0248,,,,,900.00,,,,,,,0.00,Y,variable,1.000,,,N,,
+so-dimm-skihotar-8gb-ddr4-3200mhz,10935,,,,,,SKMHK233011Z0301,,,,,900.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+switching-power-adapter-ac/dc-adapter-1250-/input:-ac100-240v,10521,SWITCHING POWER ADAPTER AC/DC ADAPTER 1250 /INPUT: AC100-240V,Network Accessories,,N,,,,,,,0.00,,,,Y,,manila,0.00,Y,499.00,7.000,,,N,Y,Y
+tenda-n6p-8h-8-channel-hd-poe-nvr,10621,TEND 8 PORTS POE SWITCH TEG1109P-8-102W,CCTV & camera,,N,description,DISCOUNT,,,,,0.00,,,,Y,,iidc,1380.00,Y,4500.00,0.000,,,N,Y,Y
+tenda-n6p-8h-8-channel-hd-poe-nvr,10622,,,,,,WS,,,,,0.00,,,,,,,1380.00,Y,variable,0.000,,,N,,
+tenda-4ch-full-color-wireless,10657,TENDA 4 CHANNEL FULL COLOR WIRELESS CCTV,CCTV & camera,,N,Description,Discount,,,,,8327.89,,,,Y,,iidc,0.00,Y,9300.00,0.000,,,N,Y,Y
+tenda-4ch-full-color-wireless,10658,,,,,,Ws,,,,,8200.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+tenda-ch3-full-color-outdoor-cctv-1080p,10201,TENDA CH3 FULL-COLOR OUTDOOR CCTV 1080P,CCTV & camera,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,iidc,1100.00,Y,1900.00,2.000,,,N,N,Y
+tenda-ch3-full-color-outdoor-cctv-1080p,10666,,,,,,WS,,,,,0.00,,,,,,,1100.00,Y,variable,0.000,,,N,,
+tenda-ch9-wca-full-color-wifi-6-outdoor-cctv,10459,TENDA CH9-WCA FULL-COLOR WIFI 6 OUTDOOR CCTV,CCTV & camera,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,1900.00,Y,2500.00,1.000,,,N,N,Y
+tenda-ch9-wca-full-color-wifi-6-outdoor-cctv,10774,,,,,,WS,,,,,0.00,,,,,,,1900.00,Y,variable,0.000,,,N,,
+tenda-cp3-pro-ai-pan/tilt-camera,10010,TENDA CP3 PRO AI PAN/TILT CAMERA,CCTV & camera,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,iidc,0.00,Y,1250.00,0.000,,,N,N,Y
+tenda-cp3-pro-ai-pan/tilt-camera,10113,,,,,,WS,,,,,0.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+tenda-ct3-full-color-outdoor-cctv-1080p,10210,TENDA CT3 FULL-COLOR OUTDOOR CCTV 1080P,CCTV & camera,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,iidc,1100.00,Y,1900.00,8.000,,,N,N,Y
+tenda-ct3-full-color-outdoor-cctv-1080p,10689,,,,,,WS,,,,,0.00,,,,,,,1100.00,Y,variable,0.000,,,N,,
+tenda-f3,10111,​TENDA F3 300 MBPS ROUTER EXTENDER,Network Accessories,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,iidc,495.00,Y,795.00,4.000,,,N,Y,Y
+tenda-f3,10813,,,,,,WS,,,,,0.00,,,,,,,495.00,Y,variable,0.000,,,N,,
+tenda-n3l-8h-8-channel-hd-nvr,10627,tenda N3L-8h 8 channel hd NVR,CCTV & camera,,N,description,discount,,,,,788.59,,,,Y,,iidc,0.00,Y,4000.00,3.000,1.000,,N,Y,Y
+tenda-n3l-8h-8-channel-hd-nvr,10628,,,,,,ws,,,,,788.60,,,,,,,0.00,Y,variable,0.000,,,N,,
+tenda-n6p-16h-16-channel-poe-hd-nvr,10623,tenda n6p-16h 16 channel Poe HD NVR,CCTV & camera,,N,description,discount,,,,,1500.00,,,,Y,,iidc,0.00,Y,5000.00,1.000,1.000,,N,Y,Y
+tenda-n6p-16h-16-channel-poe-hd-nvr,10624,,,,,,ws,,,,,1500.01,,,,,,,0.00,Y,variable,0.000,,,N,,
+tenda-n6p-4h-4-channel-poe-hd-nvr,10619,tenda n6p-4h 4 channel POE HD NVR,CCTV & camera,,N,description,discount,,,,,1030.00,,,,Y,,iidc,0.00,Y,2000.00,0.000,2.000,,N,Y,Y
+tenda-n6p-4h-4-channel-poe-hd-nvr,10620,,,,,,ws,,,,,1030.01,,,,,,,0.00,Y,variable,0.000,,,N,,
+tenda-wi-fi-6-router-rx2-pro,11711,TENDA WI-FI 6 ROUTER RX2 PRO,Network Accessories,,N,description,DISCOUNT,,,,,0.00,,,,Y,,,0.00,Y,2300.00,0.000,,,N,N,Y
+tenda-wi-fi-6-router-rx2-pro,11712,,,,,,WS,,,,,0.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+h110-tg-surplus,10059,TG H310 INTEL MOTHERBOARD,Motherboard,,N,,,,,,,1500.00,,,,Y,,manila,0.00,Y,2550.00,0.000,3.000,,N,Y,Y
+thermal-paste,10091,THERMAL PASTE (BIG),Accessories,,N,,,,,,,0.00,,,,Y,,manila,29.00,Y,95.00,55.000,5.000,,N,Y,Y
+ac6-tenda-vlan-router-dual-band,10670,TP-LINK AC1200 DUAL BAND WIFI ROUTER,Network Accessories,,N,,,,,,,898.43,,,,Y,,iidc,0.00,Y,1750.00,0.000,1.000,,N,Y,Y
+tp-link-archer-ax12-gigabit-wi-fi-6-router,10436,TP-LINK ARCHER AX12 GIGABIT WI-FI 6 ROUTER,Network Accessories,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,1500.00,Y,2100.00,5.000,,,N,N,Y
+tp-link-archer-ax12-gigabit-wi-fi-6-router,11145,,,,,,WS,,,,,0.00,,,,,,,1500.00,Y,variable,1.000,,,N,,
+tp-link-dual-band-usb-dongle-ac600,10638,TP-LINK DUAL BAND USB DONGLE AC600,computer parts,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,450.00,Y,655.00,11.000,3.000,,N,N,Y
+tp-link-dual-band-usb-dongle-ac600,11142,,,,,,WS,,,,,0.00,,,,,,,450.00,Y,variable,2.000,,,N,,
+tplink-eap-110-wireless-outdoor-access-point-vendo,10316,TPLINK 300MBPS WIRELESS EAP 110 OUTDOOR ANTENNA,Network Accessories,,N,DESCRIPTION,DISCOUNT,,,,,1257.91,,,,Y,,,0.00,Y,1600.00,3.000,,,N,Y,Y
+tplink-eap-110-wireless-outdoor-access-point-vendo,11041,,,,,,WS,,,,,1257.91,,,,,,,0.00,Y,variable,0.000,,,N,,
+transcend-8gb-ram-ddr5,10067,TRANSCEND 8GB RAM DDR5,Ram,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,0.00,Y,variable,0.000,,,N,N,Y
+transcend-8gb-ram-ddr5,10069,,,,,,WS,,,,,0.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+txrui-8gb-ram-ddr3-1600mhz,10018,TXRUI 8GB RAM DDR3 1600MHZ,Ram,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,ting2 intino,0.00,Y,990.00,0.000,,,N,N,Y
+txrui-8gb-ram-ddr3-1600mhz,10118,,,,,,WS,,,,,0.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+txrui-8gb-ram-ddr4,10008,TXRUI 8GB RAM DDR4 2666MHZ,Ram,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,0.00,Y,2200.00,2.000,,,N,N,Y
+txrui-8gb-ram-ddr4,10009,,,,,,WS,,,,,0.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+universal-9.5mm/12.7mm-second-hdd-caddy-sata-3.0,10392,UNIVERSAL 9.5MM/12.7MM HDD CADDY ADAPTER INCLOSURE,Accessories,,N,size,12.7MM,,,,,0.00,,,,Y,,manila,70.00,Y,449.00,3.000,3.000,,N,Y,Y
+universal-9.5mm/12.7mm-second-hdd-caddy-sata-3.0,10391,,,,,,9.5MM,,,,,0.00,,,,,,,70.00,Y,449.00,3.000,3.000,,N,,
+sandisk-32gb-sd-card-class-10-original,10141,USB 32GB SANDISK FLASH DRIVE,Ssd & storage,,N,descriptions,DISCOUNT,,,,,226.41,,,,Y,,,0.00,Y,390.00,0.000,,,N,Y,Y
+sandisk-32gb-sd-card-class-10-original,11127,,,,,,WS,,,,,226.41,,,,,,,0.00,Y,variable,0.000,,,N,,
+usb-64gb-lexar-flash-drive,10241,USB 64GB LEXAR FLASH DRIVE,Ssd & storage,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,250.00,Y,450.00,9.000,,,N,N,Y
+usb-64gb-lexar-flash-drive,10981,,,,,,WS,,,,,0.00,,,,,,,250.00,Y,variable,0.000,,,N,,
+usb-buck-converter,10108,usb buck converter,Vendo & pisonet parts Accessories,,N,,,,,,,0.00,,,,Y,,iidc,40.00,Y,55.00,1.000,,,N,Y,Y
+usb-enclosure-2552u3-3.0-(transparent),11580,USB ENCLOSURE 2552U3-3.0 (TRANSPARENT),Accessories,,N,description,discount,,,,,0.00,,,,Y,,,0.00,Y,340.00,3.000,,,N,N,Y
+usb-enclosure-2552u3-3.0-(transparent),11581,,,,,,ws,,,,,0.00,,,,,,,0.00,Y,variable,0.000,,,N,,
+usb-extension-3.0-1.5m,10200,USB EXTENSION 3.0 1.5M,converter cables & others,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,65.00,Y,110.00,9.000,,,N,N,Y
+usb-extension-3.0-1.5m,10202,,,,,,WS,,,,,0.00,,,,,,,65.00,Y,variable,0.000,,,N,,
+usb-hub-1---4-slots-no-warranty,10727,USB HUB 1 - 4 SLOTS,Accessories,,N,description,discount,,,,,0.00,,,,Y,,iidc,50.00,Y,150.00,3.000,,,N,Y,Y
+usb-hub-1---4-slots-no-warranty,10728,,,,,,ws,,,,,0.00,,,,,,,50.00,Y,variable,0.000,,,N,,
+usb-hub-3.0-4-ports,10195,USB HUB 3.0 4 PORTS,converter cables & others,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,160.00,Y,230.00,10.000,,,N,N,Y
+usb-hub-3.0-4-ports,10196,,,,,,WS,,,,,0.00,,,,,,,160.00,Y,variable,0.000,,,N,,
+usb-printer-cable-1.5m,11604,USB PRINTER CABLE 1.5M,Cables & wirings,,N,description,discount,,,,,0.00,,,,Y,,,25.00,Y,80.00,8.000,,,N,N,Y
+usb-printer-cable-1.5m,11605,,,,,,ws,,,,,0.00,,,,,,,25.00,Y,variable,0.000,,,N,,
+usb-to-audio-steel-sound-7.1,11616,USB TO AUDIO STEEL SOUND 7.1,Headset and Speaker,,N,description,DISCOUNT,,,,,0.00,,,,Y,,,120.00,Y,200.00,14.000,,,N,N,Y
+usb-to-audio-steel-sound-7.1,10194,,,,,,WS,,,,,0.00,,,,,,,120.00,Y,variable,0.000,,,N,,
+usb-to-lan,11588,USB TO LAN 3.0 1000MBPS,Network Accessories,,N,description,DISCOUNT,,,,,210.00,,,,Y,,manila,220.00,Y,350.00,15.000,,,N,Y,Y
+usb-to-lan,11589,,,,,,WS,,,,,210.00,,,,,,,220.00,Y,variable,0.000,,,N,,
+usb-to-audio,10089,USB TO SATA,converter cables & others,,N,,,,,,,95.00,,,,Y,,manila,0.00,Y,229.00,10.000,2.000,,N,Y,Y
+cat-6-indoor-sold-by-meter,10443,UTP INDOOR PER MTRS. COMLINK,Cables & wirings,,N,sold by meter,METER,,,,,0.00,,,,Y,,iidc,5.00,Y,10.00,659.000,,,Y,Y,Y
+cat-6-indoor-sold-by-meter,10205,,,,,,ROLL / 305 METERS,,,,,0.00,,,,,,,645.00,Y,1800.00,4.000,,,,,
+cat-6-indoor-sold-by-meter,10753,,,,,,WS,,,,,0.00,,,,,,,0.00,Y,variable,0.000,,,,,
+vendo-box-piso-net-&-piso-wifi,10230,VENDO BOX PISO NET & PISO WIFI,computer set & pisowifi,,N,DESCRIPTION,DUAL BOX,,,,,0.00,,,,Y,,,350.00,Y,variable,1.000,,,N,N,Y
+vendo-box-piso-net-&-piso-wifi,10231,,,,,,SINGLE BOX,,,,,0.00,,,,,,,500.00,Y,variable,0.000,,,N,,
+cooler-master-vga-vertical-graphics-card-holder-kit-v3,10397,VERTICAL GPU HOLDER KIT COOLER MASTER,computer parts,,N,color,black,,,,,0.00,,,,Y,,manila,3250.00,Y,5724.00,0.000,1.000,,N,Y,Y
+cooler-master-vga-vertical-graphics-card-holder-kit-v3,10412,,,,,,white,,,,,0.00,,,,,,,4231.00,Y,5933.00,2.000,1.000,,N,,
+vga-cable-10m,11600,VGA CABLE 10M,Cables & wirings,,N,description,discount,,,,,0.00,,,,Y,,,350.00,Y,500.00,3.000,,,N,N,Y
+vga-cable-10m,11601,,,,,,ws,,,,,0.00,,,,,,,350.00,Y,variable,0.000,,,N,,
+usb-to-printer-cable,10090,VGA CABLE BLACK,Cables & wirings,,N,,,,,,,0.00,,,,Y,,manila,65.00,Y,100.00,18.000,2.000,,N,Y,Y
+vga-cable-blue,10294,VGA CABLE BLUE,Cables & wirings,,N,,,,,,,0.00,,,,Y,,,55.00,Y,85.00,14.000,2.000,,N,N,Y
+vga-cable-white-original-1.5,10197,VGA CABLE WHITE ORIGINAL 1.5,Cables & wirings,,N,description,discount,,,,,0.00,,,,Y,,,55.00,Y,85.00,1.000,,,N,N,Y
+vga-cable-white-original-1.5,11591,,,,,,ws,,,,,0.00,,,,,,,55.00,Y,variable,5.000,,,N,,
+vga-to-dvi-adapter-philips,10121,VGA TO DVI ADAPTER PHILIPS,converter cables & others,,N,DESCRIPTION,DISCOUNT,,,,,0.00,,,,Y,,,185.00,Y,320.00,8.000,2.000,,N,N,Y
+vga-to-dvi-adapter-philips,10122,,,,,,WS,,,,,0.00,,,,,,,185.00,Y,variable,1.000,,,N,,
+vga-to-hdmi-adaptor-1080p,11606,VGA TO HDMI ADAPTOR,converter cables & others,,N,description,discount,,,,,0.00,,,,Y,,,420.00,Y,505.00,9.000,,,N,N,Y
+vga-to-hdmi-adaptor-1080p,11607,,,,,,ws,,,,,0.00,,,,,,,420.00,Y,variable,1.000,,,N,,
